@@ -31,11 +31,11 @@ A marketing data analytics project from KPMG AU
 
 **Here is the background information on your task**
 
-	Please make sure you attempt Module 1 before starting this Module
+Please make sure you attempt Module 1 before starting this Module
 
-	Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. 
+Sprocket Central Pty Ltd has given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organisation. 
 
-	The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
+The marketing team at Sprocket Central Pty Ltd is sure that, if correctly analysed, the data would reveal useful customer insights which could help optimise resource allocation for targeted marketing. Hence, improve performance by focusing on high value customers.
 
 **Here is your task**
 For context, Sprocket Central Pty Ltd is a long-standing KPMG client whom specialises in high-quality bikes and accessible cycling accessories to riders. Their marketing team is looking to boost business by analysing their existing customer dataset to determine customer trends and behaviour. 
@@ -62,9 +62,9 @@ Tips: You may source external data from the ABS / Census to add additional varia
 **Here is the background information on your task**
 [Please make sure you attempt Module 1 & 2 before starting this Module].
 
-	The client is happy with the analysis plan and would like us to proceed.  After building the model we need to present our results back to the client. 
+The client is happy with the analysis plan and would like us to proceed.  After building the model we need to present our results back to the client. 
 
-	Visualisations such as interactive dashboards often help us highlight key findings and convey our ideas in a more succinct manner. A list of customers or algorithm won’t cut it with the client, we need to support our results with the use of visualisations. 
+Visualisations such as interactive dashboards often help us highlight key findings and convey our ideas in a more succinct manner. A list of customers or algorithm won’t cut it with the client, we need to support our results with the use of visualisations. 
 
 
 **Here is your task**
@@ -79,9 +79,8 @@ It is important to keep in mind the business context when presenting your findin
 - Which customer segment has the highest customer value?
 - What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
 - What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+
 Specifically, your presentation should specify who Sprocket Central Pty Ltd’s marketing team should be targeting out of the new 1000 customer list as well as the broader market segment to reach out to. 
 
 
 ###### To do this task, you may use tools like Tableau and Power BI. These tools help group and visualise datasets.
-
-
