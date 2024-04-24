@@ -82,6 +82,21 @@ ALTER TABLE kpmgs."CustomerDemographic"
 
 UPDATE kpmgs."CustomerDemographic"
 	SET age = EXTRACT(YEAR FROM CURRENT_DATE) - EXTRACT(YEAR FROM dob);
+
+DELETE FROM kpmgs."CustomerDemographic"
+WHERE age IS NULL;
+
+ALTER TABLE kpmgs."CustomerDemographic"
+	ADD COLUMN age_category TEXT;
+	
+UPDATE kpmgs."CustomerDemographic"
+	SET age_category = CASE
+	WHEN age < 20 AND age IS NOT NULL THEN 'Teenagers'
+	WHEN age >= 20 AND age <= 34 THEN 'Young adults'
+	WHEN age >= 35 AND age <= 54 THEN 'Middle adults'
+	WHEN age >= 55 AND age <= 64 THEN 'Mature adults'
+	WHEN age > 64 AND age IS NOT NULL THEN 'Seniors'
+	END;
 	
 	
 -- Visualisation
@@ -152,4 +167,6 @@ SELECT SUM (past_3_years_bike_related_purchases) AS purchases_num, owns_car
 	FROM kpmgs."CustomerDemographic"
 	GROUP BY owns_car
 	ORDER BY purchases_num;
+	
+SELECT * FROM kpmgs."CustomerDemographic";
 

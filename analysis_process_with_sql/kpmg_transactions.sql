@@ -85,4 +85,5 @@ SELECT SUM (profit) AS total_profit, product_size
 -- Visualization
 --
 
+SELECT * FROM kpmgs."Transactions";
 

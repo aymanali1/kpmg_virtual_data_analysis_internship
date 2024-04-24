@@ -48,3 +48,6 @@ SELECT DISTINCT count (customer_id) FROM kpmgs."CustomerAddress";
 SELECT count (customer_id) AS customers, state 
 	From kpmgs."CustomerAddress"
 	GROUP BY state;
+	
+SELECT * FROM kpmgs."CustomerAddress";
+

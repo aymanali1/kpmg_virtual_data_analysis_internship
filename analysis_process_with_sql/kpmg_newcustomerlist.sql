@@ -53,9 +53,6 @@ UPDATE kpmgs."NewCustomerList"
 ALTER TABLE kpmgs."NewCustomerList"
 ADD COLUMN age_category TEXT;
 
-ALTER TABLE kpmgs."NewCustomerList"
-drop COLUMN age_category ;
-
 UPDATE kpmgs."NewCustomerList"
 	SET age_category = CASE
 	WHEN age < 20 AND age IS NOT NULL THEN 'Teenagers'
