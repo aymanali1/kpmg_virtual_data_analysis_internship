@@ -168,12 +168,14 @@ SELECT customer_id,
 
 /* Comparision and checking on the results*/
 
-SELECT * FROM kpmgs."vw_rfm_score5ntile" where rfm_recency= '1'AND rfm_frequency= '1' AND rfm_monetary='1'
+SELECT * FROM kpmgs."vw_rfm_score5ntile2";
+
+SELECT * FROM kpmgs."vw_rfm_score5ntile2" where rfm_recency= '1'AND rfm_frequency= '1' AND rfm_monetary='1'
 	ORDER BY rfm_recency;
 	
 SELECT * FROM kpmgs."vw_pre_rfm" WHERE customer_id= '1506' ORDER BY recency_min;
 
-SELECT * FROM kpmgs."vw_rfm_score5ntile"
+SELECT * FROM kpmgs."vw_rfm_score5ntile2"
 	WHERE customer_id <= 20
 	ORDER BY rfm_recency DESC;
 	
