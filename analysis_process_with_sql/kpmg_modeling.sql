@@ -29,6 +29,7 @@ SELECT tra.* ,
 	
 ALTER TABLE kpmgs."modeling"
 	ADD COLUMN age INTEGER;
+
 UPDATE kpmgs."modeling"
 	SET age = EXTRACT(YEAR FROM CURRENT_DATE) - EXTRACT(YEAR FROM dob);
 	
