@@ -1,0 +1,1001 @@
+"customer_id","rfm_score","group_name","gender","age_category","job_industry_category","wealth_segment","owns_car","address","postcode","state","past_3_years_bike_related_purchases"
+346,555,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","No","44621 Linden Drive",2155,"NSW",68
+946,555,"01- Champions","Female","Mature adults","Manufacturing","High Net Worth","No","93446 Eagle Crest Plaza",2229,"NSW",16
+2029,554,"01- Champions","Male","Young adults","Manufacturing","Mass Customer","No","2 Thierer Place",4053,"QLD",10
+1698,455,"01- Champions","Female","Middle adults","Health","Affluent Customer","Yes","1301 Northwestern Place",2117,"NSW",58
+1461,445,"01- Champions","Male","Seniors","Retail","Mass Customer","Yes","3 Independence Hill",2560,"NSW",71
+2454,455,"01- Champions","Female","Mature adults","Property","Mass Customer","Yes","15 Shelley Hill",2164,"NSW",81
+2386,545,"01- Champions","Female","Young adults","Financial Services","Mass Customer","No","1 Nova Avenue",2200,"NSW",93
+2301,545,"01- Champions","Male","Mature adults","Financial Services","Mass Customer","Yes","3242 Arizona Junction",4101,"QLD",66
+724,455,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","Yes","9 Bartelt Lane",2190,"NSW",7
+1103,455,"01- Champions","Female","Middle adults","Financial Services","High Net Worth","Yes","258 Luster Court",2154,"NSW",76
+2888,445,"01- Champions","Male","Mature adults","IT","High Net Worth","Yes","5674 Superior Point",2528,"NSW",37
+796,544,"01- Champions","Female","Young adults","Financial Services","Mass Customer","No","414 Kensington Lane",3076,"VIC",8
+2726,455,"01- Champions","Male","Middle adults","Financial Services","Affluent Customer","No","15776 Thackeray Alley",2261,"NSW",49
+1194,454,"01- Champions","Female","Young adults","Telecommunications","Affluent Customer","No","261 Farmco Drive",4118,"QLD",69
+2120,555,"01- Champions","Male","Young adults","Manufacturing","Mass Customer","No","35 Harbort Way",2446,"NSW",80
+2729,545,"01- Champions","Female","Young adults","","Mass Customer","Yes","304 Moland Street",3810,"VIC",76
+2057,445,"01- Champions","Female","Mature adults","Manufacturing","Affluent Customer","Yes","2807 Northwestern Pass",3182,"VIC",99
+2103,555,"01- Champions","Male","Middle adults","Financial Services","Affluent Customer","No","Waubesa Alley",2265,"NSW",94
+3258,455,"01- Champions","Female","Middle adults","Retail","Mass Customer","Yes","5 Stone Corner Parkway",2093,"NSW",77
+2266,454,"01- Champions","Male","Young adults","Retail","High Net Worth","No","7037 North Park",2484,"NSW",74
+2425,554,"01- Champions","Male","Middle adults","","Mass Customer","Yes","16 Dwight Court",2154,"NSW",32
+1318,544,"01- Champions","Female","Mature adults","Financial Services","Mass Customer","Yes","889 Straubel Way",4055,"QLD",10
+1970,554,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","No","5 Onsgard Plaza",3134,"VIC",51
+1140,555,"01- Champions","Female","Middle adults","","Mass Customer","Yes","8587 Graceland Way",2206,"NSW",32
+1483,454,"01- Champions","Female","Middle adults","Telecommunications","Mass Customer","Yes","941 La Follette Hill",2263,"NSW",55
+1237,455,"01- Champions","Female","Middle adults","Health","High Net Worth","No","17357 Katie Center",3677,"VIC",6
+2201,445,"01- Champions","Female","Young adults","Financial Services","Affluent Customer","Yes","11 Sage Place",4055,"QLD",56
+500,454,"01- Champions","Male","Young adults","Retail","Affluent Customer","Yes","2639 Brown Road",3910,"VIC",19
+2733,455,"01- Champions","Female","Middle adults","Manufacturing","Mass Customer","Yes","81254 Buhler Trail",4740,"QLD",89
+2170,445,"01- Champions","Male","Mature adults","Manufacturing","Affluent Customer","No","5 Muir Circle",2030,"NSW",27
+407,554,"01- Champions","Female","Middle adults","","High Net Worth","Yes","78152 Harper Parkway",2756,"NSW",82
+1578,445,"01- Champions","Male","Middle adults","Health","High Net Worth","Yes","7317 Huxley Alley",2112,"NSW",60
+793,555,"01- Champions","Female","Young adults","Financial Services","High Net Worth","Yes","57 Gulseth Terrace",2099,"NSW",97
+2993,554,"01- Champions","Female","Young adults","Financial Services","Affluent Customer","No","Cordelia Trail",2138,"NSW",85
+1074,454,"01- Champions","Male","Middle adults","","High Net Worth","Yes","4 Quincy Trail",2800,"NSW",43
+2427,544,"01- Champions","Female","Young adults","","High Net Worth","Yes","96 Hintze Point",2147,"NSW",20
+239,555,"01- Champions","Male","Young adults","Health","Affluent Customer","No","95 Eliot Street",4514,"QLD",62
+2308,555,"01- Champions","Female","Mature adults","Financial Services","Mass Customer","Yes","Marcy Crossing",3115,"VIC",52
+3217,555,"01- Champions","Female","Mature adults","Manufacturing","Mass Customer","No","17 Nevada Drive",2122,"NSW",95
+37,555,"01- Champions","Female","Middle adults","Health","High Net Worth","No","54 Sage Plaza",4726,"QLD",46
+844,455,"01- Champions","Male","Middle adults","Financial Services","High Net Worth","No","69 Hovde Plaza",2680,"NSW",13
+1232,555,"01- Champions","Male","Mature adults","Property","Affluent Customer","No","61949 7th Road",4573,"QLD",83
+1152,454,"01- Champions","Male","Young adults","Financial Services","Mass Customer","Yes","893 Petterle Trail",4551,"QLD",47
+2130,554,"01- Champions","Female","Young adults","Property","High Net Worth","Yes","26064 Morningstar Junction",2480,"NSW",95
+2728,554,"01- Champions","Female","Mature adults","IT","High Net Worth","No","512 Forest Run Center",3188,"VIC",55
+419,545,"01- Champions","Female","Middle adults","Manufacturing","Affluent Customer","No","7526 Artisan Parkway",4223,"QLD",34
+270,545,"01- Champions","Female","Middle adults","","Mass Customer","Yes","90173 Oneill Place",3071,"VIC",38
+1106,455,"01- Champions","Female","Mature adults","Retail","Mass Customer","No","9 Superior Plaza",3185,"VIC",2
+768,555,"01- Champions","Female","Middle adults","Agriculture","Affluent Customer","Yes","6495 Swallow Terrace",2759,"NSW",5
+3227,544,"01- Champions","Male","Young adults","Manufacturing","Affluent Customer","No","37363 Morning Park",3108,"VIC",37
+2683,445,"01- Champions","Female","Mature adults","","Affluent Customer","Yes","25567 Linden Court",4564,"QLD",81
+1991,555,"01- Champions","Male","Young adults","Health","Mass Customer","Yes","42554 Burrows Court",2117,"NSW",35
+58,454,"01- Champions","Female","Mature adults","Financial Services","Affluent Customer","Yes","18 Elgar Park",2166,"NSW",26
+1953,544,"01- Champions","Female","Middle adults","Financial Services","High Net Worth","No","299 Pine View Parkway",3121,"VIC",23
+3117,455,"01- Champions","Female","Young adults","Financial Services","Affluent Customer","Yes","73 Fremont Alley",3805,"VIC",68
+3013,554,"01- Champions","Female","Mature adults","Property","High Net Worth","No","399 Butterfield Crossing",4115,"QLD",94
+2585,544,"01- Champions","Male","Young adults","","Affluent Customer","No","83441 Donald Pass",4565,"QLD",15
+1291,445,"01- Champions","Male","Middle adults","Health","Mass Customer","No","8 Kinsman Alley",4304,"QLD",0
+706,445,"01- Champions","Male","Young adults","Financial Services","High Net Worth","Yes","8 Dottie Court",3480,"VIC",44
+1358,554,"01- Champions","Male","Young adults","Health","High Net Worth","No","19 Green Ridge Avenue",3340,"VIC",8
+545,545,"01- Champions","Female","Middle adults","Health","Mass Customer","Yes","142 Cambridge Place",2761,"NSW",43
+2826,555,"01- Champions","Female","Mature adults","","Mass Customer","No","9 Springview Terrace",3121,"VIC",73
+182,545,"01- Champions","Male","Young adults","Financial Services","Affluent Customer","Yes","83012 Dapin Lane",4300,"QLD",99
+2680,454,"01- Champions","Female","Mature adults","Financial Services","Mass Customer","Yes","4658 Tennessee Street",3121,"VIC",0
+820,555,"01- Champions","Female","Middle adults","Financial Services","High Net Worth","No","58047 Westport Road",2040,"NSW",12
+2385,455,"01- Champions","Male","Seniors","Health","Mass Customer","No","1816 Monument Park",3074,"VIC",70
+2822,555,"01- Champions","Female","Middle adults","","Mass Customer","No","99216 Oakridge Hill",3124,"VIC",83
+3388,454,"01- Champions","Male","Middle adults","Retail","Mass Customer","No","72728 Ruskin Way",2291,"NSW",81
+611,554,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","Yes","83 Ryan Hill",4551,"QLD",58
+2204,454,"01- Champions","Female","Mature adults","Entertainment","High Net Worth","No","94 Vernon Parkway",2762,"NSW",16
+1885,555,"01- Champions","Male","Middle adults","Health","High Net Worth","Yes","83148 Rowland Alley",2530,"NSW",18
+1599,455,"01- Champions","Male","Young adults","","Affluent Customer","No","2390 Blackbird Point",2035,"NSW",65
+2033,544,"01- Champions","Male","Middle adults","Health","High Net Worth","No","1 Sloan Avenue",2176,"NSW",36
+1233,455,"01- Champions","Female","Middle adults","Retail","Affluent Customer","Yes","26 Lotheville Court",2085,"NSW",17
+3251,555,"01- Champions","Female","Middle adults","Financial Services","High Net Worth","Yes","11 Mifflin Junction",2193,"NSW",95
+2458,545,"01- Champions","Female","Mature adults","Manufacturing","High Net Worth","Yes","6 Ryan Drive",2165,"NSW",73
+1589,545,"01- Champions","Male","Young adults","Health","Mass Customer","Yes","78000 Arrowood Center",2775,"NSW",83
+533,545,"01- Champions","Male","Middle adults","Retail","Mass Customer","No","1038 Hayes Point",2021,"NSW",40
+906,454,"01- Champions","Male","Young adults","Financial Services","High Net Worth","Yes","1 Cottonwood Street",3150,"VIC",73
+1763,544,"01- Champions","Female","Young adults","Manufacturing","Affluent Customer","Yes","8731 Coleman Lane",3352,"VIC",96
+1967,445,"01- Champions","Female","Middle adults","Manufacturing","Affluent Customer","Yes","67104 Bunting Crossing",2043,"NSW",88
+2369,555,"01- Champions","Female","Young adults","Financial Services","Mass Customer","Yes","1 Bay Pass",3219,"VIC",80
+368,554,"01- Champions","Female","Middle adults","Financial Services","High Net Worth","No","382 Maywood Parkway",4127,"QLD",32
+1068,555,"01- Champions","Male","Young adults","Health","Mass Customer","Yes","4297 Emmet Lane",2170,"NSW",5
+2240,455,"01- Champions","Male","Middle adults","Manufacturing","High Net Worth","Yes","70 Old Gate Avenue",3043,"VIC",4
+2574,455,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","No","15952 Mockingbird Court",2470,"NSW",73
+3330,454,"01- Champions","Female","Seniors","Health","Mass Customer","Yes","75106 Oriole Junction",2030,"NSW",70
+41,455,"01- Champions","Male","Middle adults","Health","Mass Customer","No","7188 Cody Way",3350,"VIC",64
+720,455,"01- Champions","Male","Seniors","Retail","Affluent Customer","No","78 Glacier Hill Drive",2026,"NSW",67
+3451,454,"01- Champions","Male","Middle adults","","High Net Worth","No","4233 Service Avenue",2340,"NSW",88
+1706,555,"01- Champions","Male","Mature adults","Financial Services","High Net Worth","Yes","11 Victoria Place",2036,"NSW",32
+1028,545,"01- Champions","Male","Young adults","","High Net Worth","No","15393 Cody Lane",2046,"NSW",10
+1625,555,"01- Champions","Male","Middle adults","Property","Mass Customer","Yes","2 Southridge Crossing",2763,"NSW",20
+2651,445,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","Yes","6876 Mandrake Avenue",2298,"NSW",10
+934,555,"01- Champions","Male","Young adults","Manufacturing","Mass Customer","No","4 Eastlawn Crossing",2036,"NSW",76
+344,555,"01- Champions","Female","Middle adults","","High Net Worth","Yes","85 Straubel Park",2147,"NSW",91
+1691,554,"01- Champions","Male","Middle adults","","High Net Worth","Yes","91 Hoard Street",2229,"NSW",50
+2548,555,"01- Champions","Female","Middle adults","","Mass Customer","No","12 Fairfield Parkway",3029,"VIC",11
+1694,445,"01- Champions","Male","Mature adults","IT","Mass Customer","Yes","41 Dwight Way",3585,"VIC",11
+1558,555,"01- Champions","Male","Young adults","Financial Services","Affluent Customer","No","7236 Jenifer Point",2763,"NSW",14
+109,554,"01- Champions","Male","Middle adults","","Affluent Customer","Yes","41 Service Lane",2217,"NSW",16
+576,545,"01- Champions","Male","Middle adults","Retail","Mass Customer","Yes","44 Bunting Parkway",2106,"NSW",98
+200,555,"01- Champions","Male","Seniors","Property","Affluent Customer","Yes","7 Havey Point",4005,"QLD",7
+634,454,"01- Champions","Female","Middle adults","Manufacturing","Mass Customer","No","4 Namekagon Pass",2326,"NSW",35
+832,455,"01- Champions","Male","Middle adults","Retail","Mass Customer","No","44997 Anniversary Way",4114,"QLD",30
+1331,555,"01- Champions","Male","Middle adults","Telecommunications","High Net Worth","No","2 Dixon Crossing",3910,"VIC",12
+173,455,"01- Champions","Female","Young adults","Health","Affluent Customer","No","2 Randy Point",2766,"NSW",99
+215,554,"01- Champions","Female","Middle adults","Retail","High Net Worth","Yes","Northport Court",4012,"QLD",37
+3315,545,"01- Champions","Female","Young adults","Property","Mass Customer","Yes","6 North Court",3862,"VIC",77
+1144,445,"01- Champions","Male","Young adults","Health","High Net Worth","Yes","4439 7th Terrace",2177,"NSW",73
+1129,455,"01- Champions","Male","Middle adults","Entertainment","Mass Customer","Yes","1 Nevada Park",4226,"QLD",2
+1830,545,"01- Champions","Male","Middle adults","Manufacturing","High Net Worth","No","717 Oakridge Way",2117,"NSW",98
+2761,555,"01- Champions","Female","Mature adults","Financial Services","Mass Customer","No","8 Anderson Lane",2214,"NSW",78
+3379,445,"01- Champions","Female","Young adults","Health","Mass Customer","Yes","Magdeline Way",3146,"VIC",51
+3080,555,"01- Champions","Male","Seniors","Financial Services","High Net Worth","No","680 Veith Court",3939,"VIC",87
+312,545,"01- Champions","Male","Seniors","Financial Services","Affluent Customer","Yes","252 Mockingbird Plaza",2216,"NSW",44
+2464,555,"01- Champions","Male","Middle adults","Retail","Mass Customer","No","3126 Butterfield Pass",2573,"NSW",78
+765,455,"01- Champions","Female","Middle adults","Retail","Affluent Customer","No","20554 Orin Place",3630,"VIC",50
+2698,544,"01- Champions","Female","Middle adults","Health","High Net Worth","No","77196 West Crossing",2166,"NSW",19
+237,454,"01- Champions","Male","Middle adults","Property","High Net Worth","Yes","4263 Hanson Place",2021,"NSW",18
+760,455,"01- Champions","Male","Middle adults","","Mass Customer","Yes","6330 Monica Way",2540,"NSW",46
+2879,555,"01- Champions","Female","Middle adults","Agriculture","Mass Customer","Yes","77433 Sunfield Court",3179,"VIC",62
+432,455,"01- Champions","Male","Young adults","Manufacturing","Affluent Customer","Yes","9 Lukken Parkway",2065,"NSW",83
+2770,455,"01- Champions","Male","Middle adults","Manufacturing","High Net Worth","Yes","3 Buena Vista Crossing",2444,"NSW",24
+3057,445,"01- Champions","Female","Middle adults","","Mass Customer","No","40 Bowman Crossing",2031,"NSW",96
+2076,455,"01- Champions","Female","Middle adults","Manufacturing","Mass Customer","Yes","63832 Maple Wood Court",3172,"VIC",73
+2815,455,"01- Champions","Male","Seniors","Health","Mass Customer","No","69490 Orin Trail",3029,"VIC",50
+1158,544,"01- Champions","Male","Middle adults","","Mass Customer","Yes","7975 Browning Plaza",3038,"VIC",85
+1137,555,"01- Champions","Male","Middle adults","","Mass Customer","No","592 Merry Lane",3184,"VIC",46
+1762,455,"01- Champions","Female","Middle adults","Health","Mass Customer","Yes","636 Debs Circle",3039,"VIC",49
+886,554,"01- Champions","Female","Middle adults","Health","Mass Customer","No","923 Westerfield Junction",2065,"NSW",53
+318,544,"01- Champions","Female","Middle adults","Retail","Affluent Customer","Yes","671 American Ash Way",2365,"NSW",21
+2523,555,"01- Champions","Female","Mature adults","Financial Services","Mass Customer","Yes","9 Oak Park",4205,"QLD",28
+2070,555,"01- Champions","Female","Middle adults","","Mass Customer","No","7949 Waywood Way",2318,"NSW",0
+682,445,"01- Champions","Male","Middle adults","Health","Affluent Customer","Yes","3 Sheridan Park",2548,"NSW",53
+1274,454,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","No","1075 Raven Place",4512,"QLD",12
+2247,445,"01- Champions","Female","Young adults","Retail","High Net Worth","Yes","97 Randy Junction",2040,"NSW",17
+973,555,"01- Champions","Female","Middle adults","Health","High Net Worth","No","42 Dahle Parkway",3806,"VIC",46
+1853,455,"01- Champions","Female","Middle adults","","Mass Customer","Yes","867 Grim Terrace",3754,"VIC",67
+2083,454,"01- Champions","Female","Middle adults","","Mass Customer","No","9 Beilfuss Crossing",2705,"NSW",5
+1084,555,"01- Champions","Female","Young adults","Retail","Affluent Customer","No","24596 Hoepker Avenue",2322,"NSW",54
+310,545,"01- Champions","Female","Middle adults","Financial Services","Mass Customer","Yes","6 Corry Pass",2450,"NSW",0
+3044,555,"01- Champions","Male","Young adults","Health","Affluent Customer","Yes","4 Jenifer Hill",3147,"VIC",59
+2603,445,"01- Champions","Female","Mature adults","Financial Services","High Net Worth","No","84 Stuart Lane",3146,"VIC",44
+3382,454,"01- Champions","Male","Middle adults","","High Net Worth","No","40 Sauthoff Circle",3129,"VIC",90
+2751,554,"01- Champions","Male","Middle adults","Retail","High Net Worth","Yes","25 Ronald Regan Point",4035,"QLD",94
+2633,454,"01- Champions","Female","Middle adults","Property","Mass Customer","Yes","1945 Loomis Alley",2871,"NSW",47
+2992,555,"01- Champions","Female","Middle adults","Health","Mass Customer","Yes","9610 Gateway Trail",3429,"VIC",26
+1721,544,"01- Champions","Female","Middle adults","Financial Services","High Net Worth","No","Graedel Drive",4817,"QLD",82
+151,545,"01- Champions","Male","Mature adults","Manufacturing","Mass Customer","Yes","34457 Springview Street",2759,"NSW",36
+925,554,"01- Champions","Male","Middle adults","Manufacturing","Affluent Customer","No","3 Luster Junction",2323,"NSW",42
+2937,545,"01- Champions","Female","Middle adults","Financial Services","Mass Customer","No","572 Spohn Drive",3046,"VIC",47
+1353,454,"01- Champions","Female","Middle adults","Health","Mass Customer","Yes","5298 Nevada Circle",3500,"VIC",1
+3181,545,"01- Champions","Male","Middle adults","Financial Services","High Net Worth","No","26 Randy Road",2642,"NSW",39
+1957,455,"01- Champions","Male","Middle adults","Property","Affluent Customer","No","969 Gale Way",3108,"VIC",1
+2036,455,"01- Champions","Female","Middle adults","","Mass Customer","No","18 Karstens Drive",2233,"NSW",11
+1313,545,"01- Champions","Male","Middle adults","Property","Mass Customer","No","72 Shasta Plaza",4152,"QLD",59
+2755,455,"01- Champions","Female","Young adults","Manufacturing","Mass Customer","Yes","2241 Pearson Plaza",4503,"QLD",66
+1707,454,"01- Champions","Male","Young adults","Financial Services","High Net Worth","No","78 Colorado Park",4105,"QLD",18
+790,455,"01- Champions","Female","Mature adults","","Affluent Customer","No","2353 Kropf Lane",3046,"VIC",22
+987,455,"01- Champions","Male","Middle adults","Financial Services","Affluent Customer","Yes","9 Goodland Center",4213,"QLD",89
+3007,544,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","No","5913 Ramsey Road",2478,"NSW",38
+1086,555,"01- Champions","Male","Young adults","Property","Mass Customer","Yes","7258 Mandrake Terrace",3138,"VIC",84
+1184,544,"01- Champions","Female","Mature adults","Health","Mass Customer","No","63588 Clove Court",2017,"NSW",89
+1917,445,"01- Champions","Female","Middle adults","Agriculture","Affluent Customer","Yes","90128 Caliangt Place",2484,"NSW",7
+3286,555,"01- Champions","Male","Mature adults","Entertainment","Mass Customer","No","1 Fairview Park",3977,"VIC",23
+2929,555,"01- Champions","Male","Young adults","Retail","Mass Customer","No","415 Walton Lane",4883,"QLD",97
+2374,545,"01- Champions","Male","Young adults","Financial Services","Mass Customer","No","43898 Prentice Court",3025,"VIC",6
+1091,554,"01- Champions","Male","Middle adults","Health","Mass Customer","No","Fremont Court",3023,"VIC",19
+729,555,"01- Champions","Female","Middle adults","Health","Affluent Customer","No","8044 Emmet Hill",3150,"VIC",30
+723,454,"01- Champions","Female","Mature adults","Health","Mass Customer","Yes","68861 School Hill",2199,"NSW",41
+3482,455,"01- Champions","Female","Young adults","Health","Affluent Customer","Yes","54613 Service Court",4069,"QLD",71
+1049,454,"01- Champions","Male","Young adults","Property","Mass Customer","No","79 Lighthouse Bay Lane",3082,"VIC",35
+3202,554,"01- Champions","Male","Young adults","Financial Services","Mass Customer","Yes","778 7th Parkway",2071,"NSW",74
+1858,455,"01- Champions","Female","Seniors","Manufacturing","High Net Worth","Yes","41 Eagan Junction",2570,"NSW",30
+2109,555,"01- Champions","Female","Mature adults","Health","High Net Worth","Yes","7 Porter Parkway",2261,"NSW",14
+363,445,"01- Champions","Female","Middle adults","Retail","Mass Customer","Yes","93583 Moland Way",2066,"NSW",82
+2476,555,"01- Champions","Male","Seniors","Property","High Net Worth","No","567 Scott Park",4118,"QLD",13
+1332,455,"01- Champions","Male","Middle adults","","Mass Customer","Yes","7 Canary Trail",3977,"VIC",87
+1428,455,"01- Champions","Female","Young adults","Retail","High Net Worth","No","1231 Grim Road",2760,"NSW",93
+395,445,"01- Champions","Male","Middle adults","Retail","High Net Worth","Yes","3 Valley Edge Trail",3444,"VIC",28
+195,555,"01- Champions","Female","Seniors","Manufacturing","Mass Customer","No","43 Upham Crossing",3143,"VIC",34
+2705,555,"01- Champions","Female","Young adults","Manufacturing","Mass Customer","No","7107 Manitowish Road",4815,"QLD",11
+478,554,"01- Champions","Female","Mature adults","","Affluent Customer","Yes","84041 Holy Cross Circle",2142,"NSW",65
+2686,455,"01- Champions","Male","Young adults","Financial Services","Affluent Customer","No","16639 Bunting Circle",3174,"VIC",63
+2653,555,"01- Champions","Male","Young adults","Health","Affluent Customer","No","7163 2nd Point",3931,"VIC",80
+3344,544,"01- Champions","Female","Young adults","","Affluent Customer","Yes","21230 Tomscot Lane",2093,"NSW",66
+2400,455,"01- Champions","Male","Middle adults","Property","Mass Customer","Yes","846 Carberry Street",4218,"QLD",73
+396,445,"01- Champions","Female","Mature adults","Telecommunications","High Net Worth","Yes","32 Farragut Avenue",2076,"NSW",98
+2138,455,"01- Champions","Female","Middle adults","Manufacturing","High Net Worth","No","1861 Golf Course Circle",2216,"NSW",23
+1300,445,"01- Champions","Female","Young adults","Financial Services","Affluent Customer","Yes","408 Grover Place",4165,"QLD",0
+3337,555,"01- Champions","Male","Middle adults","Agriculture","Mass Customer","Yes","6933 Leroy Parkway",4209,"QLD",58
+377,554,"01- Champions","Male","Young adults","Agriculture","Mass Customer","No","259 Barnett Crossing",2265,"NSW",65
+2796,544,"01- Champions","Female","Middle adults","Manufacturing","Mass Customer","No","149 Browning Terrace",2343,"NSW",52
+197,454,"01- Champions","Female","Middle adults","","High Net Worth","No","8890 Golden Leaf Street",2063,"NSW",32
+3326,455,"01- Champions","Male","Middle adults","Manufacturing","High Net Worth","Yes","18118 Maple Wood Crossing",2763,"NSW",83
+3427,554,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","Yes","Walton Court",2226,"NSW",67
+174,555,"01- Champions","Female","Young adults","Health","Mass Customer","No","6898 Redwing Park",2148,"NSW",93
+2260,445,"01- Champions","Male","Mature adults","Agriculture","High Net Worth","No","40 Rigney Street",2200,"NSW",38
+2799,455,"01- Champions","Female","Middle adults","","Mass Customer","Yes","7 Sunbrook Terrace",2200,"NSW",80
+180,554,"01- Champions","Female","Middle adults","Agriculture","Affluent Customer","No","216 Barnett Junction",4120,"QLD",16
+534,555,"01- Champions","Female","Seniors","","Mass Customer","No","46 Eastlawn Lane",2218,"NSW",2
+307,454,"01- Champions","Male","Middle adults","Health","Affluent Customer","Yes","93 Lawn Park",3152,"VIC",55
+1554,445,"01- Champions","Male","Young adults","Retail","Affluent Customer","No","277 Maple Circle",2768,"NSW",83
+1863,445,"01- Champions","Male","Middle adults","Telecommunications","High Net Worth","No","904 Mandrake Parkway",2820,"NSW",10
+3470,555,"01- Champions","Female","Mature adults","Health","Affluent Customer","Yes","176 Sutteridge Alley",3121,"VIC",56
+2851,544,"01- Champions","Male","Middle adults","Entertainment","Affluent Customer","Yes","11035 Toban Lane",2770,"NSW",36
+2841,445,"01- Champions","Female","Mature adults","","Mass Customer","No","7 Buhler Drive",2142,"NSW",19
+381,555,"01- Champions","Female","Young adults","","Affluent Customer","No","10 Namekagon Parkway",2062,"NSW",99
+823,445,"01- Champions","Female","Young adults","Manufacturing","Affluent Customer","No","388 Weeping Birch Plaza",2156,"NSW",91
+3169,545,"01- Champions","Male","Mature adults","IT","Mass Customer","Yes","398 Butternut Place",3027,"VIC",96
+593,544,"01- Champions","Male","Middle adults","","Mass Customer","No","8435 Arkansas Terrace",2340,"NSW",64
+2606,555,"01- Champions","Female","Middle adults","Manufacturing","High Net Worth","No","906 Toban Lane",2093,"NSW",56
+3467,545,"01- Champions","Male","Middle adults","IT","Mass Customer","No","682 Claremont Circle",4350,"QLD",31
+2986,455,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","No","130 Thompson Plaza",2199,"NSW",60
+498,545,"01- Champions","Female","Middle adults","Manufacturing","High Net Worth","Yes","470 Bunting Center",2447,"NSW",58
+52,545,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","Yes","9 Michigan Terrace",2145,"NSW",57
+50,455,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","Yes","957 Veith Junction",2047,"NSW",38
+87,454,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","No","4423 Bartelt Parkway",2038,"NSW",78
+1076,555,"01- Champions","Male","Young adults","Health","Affluent Customer","No","44 Ramsey Road",2515,"NSW",33
+1591,455,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","Yes","54 Veith Drive",2073,"NSW",4
+1551,445,"01- Champions","Female","Middle adults","Entertainment","Affluent Customer","No","8 Boyd Road",2075,"NSW",37
+1792,555,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","No","2 Spohn Court",2750,"NSW",1
+995,545,"01- Champions","Male","Mature adults","Health","Mass Customer","Yes","31369 Meadow Valley Road",4034,"QLD",16
+3262,554,"01- Champions","Male","Mature adults","Entertainment","Mass Customer","No","2558 Morningstar Center",4221,"QLD",65
+1303,544,"01- Champions","Male","Middle adults","Agriculture","Mass Customer","No","917 Golf View Parkway",4217,"QLD",64
+2095,455,"01- Champions","Female","Young adults","Manufacturing","Affluent Customer","No","158 Lindbergh Crossing",3136,"VIC",69
+1817,454,"01- Champions","Male","Middle adults","","High Net Worth","No","5510 Pepper Wood Street",3429,"VIC",32
+1007,454,"01- Champions","Male","Young adults","Retail","Mass Customer","No","2 Vermont Avenue",2066,"NSW",58
+1540,544,"01- Champions","Female","Mature adults","Property","Mass Customer","Yes","8 Monument Junction",2154,"NSW",53
+815,445,"01- Champions","Female","Middle adults","Manufacturing","Mass Customer","Yes","25689 Eastlawn Crossing",2067,"NSW",47
+374,545,"01- Champions","Male","Young adults","Financial Services","Mass Customer","Yes","1823 Judy Center",3165,"VIC",81
+1346,455,"01- Champions","Male","Middle adults","Telecommunications","Mass Customer","No","5 Springview Terrace",3620,"VIC",9
+668,544,"01- Champions","Female","Mature adults","Health","Mass Customer","No","186 Shasta Avenue",2066,"NSW",61
+8,455,"01- Champions","Male","Mature adults","","Mass Customer","No","49 Londonderry Lane",2650,"NSW",31
+1033,555,"01- Champions","Male","Young adults","","Affluent Customer","Yes","5549 Bay Point",4068,"QLD",70
+2816,555,"01- Champions","Female","Young adults","Financial Services","Mass Customer","Yes","515 Warrior Pass",4226,"QLD",87
+322,555,"01- Champions","Female","Middle adults","Financial Services","Mass Customer","Yes","5 Schurz Place",4350,"QLD",19
+2367,445,"01- Champions","Male","Seniors","Manufacturing","Mass Customer","Yes","5 Columbus Crossing",3040,"VIC",40
+877,455,"01- Champions","Female","Middle adults","Financial Services","Mass Customer","Yes","29 Springview Place",2177,"NSW",92
+725,555,"01- Champions","Male","Mature adults","Health","High Net Worth","Yes","29639 Porter Center",4221,"QLD",61
+3433,555,"01- Champions","Female","Young adults","Property","Mass Customer","No","82 Warrior Hill",3174,"VIC",10
+721,545,"01- Champions","Female","Young adults","","Affluent Customer","Yes","6 Fulton Road",3174,"VIC",84
+1014,544,"01- Champions","Male","Mature adults","Property","Mass Customer","Yes","9 Macpherson Avenue",2527,"NSW",60
+2509,454,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","No","53 Anthes Point",4341,"QLD",99
+80,455,"01- Champions","Male","Middle adults","Entertainment","Mass Customer","No","7 Jackson Point",3561,"VIC",11
+1696,455,"01- Champions","Male","Young adults","Entertainment","High Net Worth","No","367 Algoma Lane",2153,"NSW",48
+139,455,"01- Champions","Male","Mature adults","Telecommunications","Affluent Customer","No","215 Lindbergh Trail",4401,"QLD",1
+2132,455,"01- Champions","Female","Middle adults","Financial Services","High Net Worth","Yes","7518 Canary Parkway",2145,"NSW",16
+3375,554,"01- Champions","Male","Young adults","Financial Services","High Net Worth","Yes","2782 Stephen Trail",2216,"NSW",37
+273,455,"01- Champions","Male","Mature adults","","Mass Customer","No","8 Texas Plaza",3081,"VIC",54
+1328,545,"01- Champions","Male","Middle adults","IT","Mass Customer","Yes","27 Farmco Pass",3806,"VIC",19
+2737,555,"01- Champions","Male","Young adults","Retail","Mass Customer","Yes","86 Hansons Parkway",2211,"NSW",28
+2932,455,"01- Champions","Male","Middle adults","IT","Mass Customer","No","2875 Anhalt Court",4570,"QLD",4
+425,445,"01- Champions","Female","Seniors","Retail","Mass Customer","Yes","311 Dapin Point",2549,"NSW",60
+669,555,"01- Champions","Female","Middle adults","","Mass Customer","No","48 Warbler Road",4053,"QLD",73
+40,445,"01- Champions","Female","Middle adults","Manufacturing","Affluent Customer","No","3496 Brown Drive",2207,"NSW",91
+320,555,"01- Champions","Male","Young adults","Health","Mass Customer","No","1108 Nevada Junction",4701,"QLD",19
+1021,455,"01- Champions","Male","Middle adults","Retail","High Net Worth","No","996 Cody Terrace",2761,"NSW",16
+1713,544,"01- Champions","Female","Middle adults","Retail","High Net Worth","Yes","9 Onsgard Court",3170,"VIC",89
+2659,555,"01- Champions","Female","Middle adults","Agriculture","High Net Worth","Yes","882 Mitchell Place",4151,"QLD",81
+2914,555,"01- Champions","Female","Middle adults","Health","Affluent Customer","Yes","3 Barnett Way",2763,"NSW",76
+99,555,"01- Champions","Male","Young adults","Financial Services","Mass Customer","No","79 Merry Park",2160,"NSW",97
+3143,454,"01- Champions","Female","Young adults","Manufacturing","Mass Customer","No","332 Summerview Park",3000,"VIC",0
+2055,555,"01- Champions","Male","Middle adults","Retail","High Net Worth","No","1786 Orin Street",2327,"NSW",46
+538,545,"01- Champions","Female","Seniors","Manufacturing","Mass Customer","Yes","311 Emmet Point",4211,"QLD",33
+2023,555,"01- Champions","Male","Middle adults","","High Net Worth","No","174 Calypso Crossing",2770,"NSW",15
+1102,455,"01- Champions","Female","Middle adults","Manufacturing","Affluent Customer","No","4 Barby Road",2647,"NSW",16
+716,544,"01- Champions","Female","Middle adults","Health","Mass Customer","No","4033 Hermina Road",2304,"NSW",31
+404,455,"01- Champions","Male","Young adults","Financial Services","Affluent Customer","Yes","333 Bunting Crossing",2536,"NSW",92
+3048,555,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","No","80302 Stang Parkway",3677,"VIC",38
+3157,555,"01- Champions","Male","Young adults","Retail","Mass Customer","Yes","16 Hansons Hill",2454,"NSW",46
+1317,555,"01- Champions","Male","Middle adults","Retail","Mass Customer","Yes","58563 Monterey Hill",4300,"QLD",2
+1446,544,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","No","70262 Hermina Court",3690,"VIC",51
+2702,455,"01- Champions","Female","Middle adults","Manufacturing","Affluent Customer","Yes","8598 Nova Parkway",2758,"NSW",34
+1115,555,"01- Champions","Female","Middle adults","","High Net Worth","Yes","84 Porter Alley",2153,"NSW",33
+1451,445,"01- Champions","Female","Middle adults","Agriculture","Mass Customer","Yes","8 Mendota Plaza",2567,"NSW",32
+2149,554,"01- Champions","Female","Middle adults","","High Net Worth","No","2 Spaight Road",2210,"NSW",26
+2856,545,"01- Champions","Female","Middle adults","Financial Services","Mass Customer","Yes","57 Village Green Center",2077,"NSW",53
+1306,545,"01- Champions","Male","Seniors","Health","Affluent Customer","Yes","9120 Corry Avenue",4208,"QLD",13
+1182,544,"01- Champions","Female","Middle adults","IT","Mass Customer","Yes","62 Elka Terrace",2430,"NSW",84
+1000,555,"01- Champions","Female","Middle adults","Financial Services","Mass Customer","No","4757 Texas Trail",3136,"VIC",44
+1473,455,"01- Champions","Male","Mature adults","","Mass Customer","Yes","25607 Summer Ridge Way",2448,"NSW",49
+91,555,"01- Champions","Male","Seniors","Financial Services","Affluent Customer","Yes","2640 Manley Point",2166,"NSW",69
+728,455,"01- Champions","Male","Seniors","Financial Services","Mass Customer","Yes","8 Kingsford Hill",3429,"VIC",60
+2850,555,"01- Champions","Female","Middle adults","","Mass Customer","Yes","70 Shopko Drive",2487,"NSW",74
+3411,445,"01- Champions","Female","Middle adults","","Mass Customer","Yes","7181 Dakota Trail",3029,"VIC",68
+1445,544,"01- Champions","Female","Middle adults","IT","Affluent Customer","No","6418 Jenna Trail",2640,"NSW",57
+2067,454,"01- Champions","Male","Middle adults","Health","Mass Customer","No","8 Superior Hill",2153,"NSW",81
+445,455,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","No","41 Ronald Regan Center",3008,"VIC",91
+1289,544,"01- Champions","Male","Middle adults","","Mass Customer","Yes","9821 Fair Oaks Trail",4306,"QLD",35
+2111,555,"01- Champions","Male","Middle adults","Property","Affluent Customer","Yes","91933 Artisan Avenue",2753,"NSW",98
+2304,544,"01- Champions","Female","Seniors","","Mass Customer","Yes","54 Annamark Place",2565,"NSW",65
+2340,555,"01- Champions","Male","Middle adults","Health","Mass Customer","Yes","29 Portage Street",4070,"QLD",33
+1502,455,"01- Champions","Female","Young adults","Financial Services","Affluent Customer","Yes","78960 Schiller Lane",2450,"NSW",52
+1802,555,"01- Champions","Female","Middle adults","Manufacturing","Mass Customer","No","66238 Old Gate Circle",4157,"QLD",3
+695,455,"01- Champions","Male","Middle adults","Health","High Net Worth","No","2 Bartelt Center",2745,"NSW",36
+3290,555,"01- Champions","Male","Mature adults","Manufacturing","High Net Worth","Yes","4171 Beilfuss Street",3153,"VIC",22
+260,554,"01- Champions","Female","Middle adults","Health","High Net Worth","Yes","15 Straubel Way",4680,"QLD",47
+2152,554,"01- Champions","Female","Mature adults","Manufacturing","Mass Customer","Yes","2800 Dottie Trail",3071,"VIC",40
+2565,455,"01- Champions","Female","Middle adults","Health","Affluent Customer","Yes","4821 Schlimgen Avenue",2007,"NSW",62
+1567,454,"01- Champions","Female","Middle adults","","Mass Customer","No","4 Toban Junction",2154,"NSW",18
+2832,454,"01- Champions","Male","Middle adults","Telecommunications","Mass Customer","Yes","92610 Sutherland Place",3140,"VIC",9
+2597,544,"01- Champions","Female","Middle adults","Manufacturing","High Net Worth","Yes","97 Waxwing Terrace",4217,"QLD",58
+614,455,"01- Champions","Female","Young adults","Manufacturing","Mass Customer","Yes","786 Rowland Court",2035,"NSW",45
+1054,554,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","Yes","10 Pennsylvania Hill",2118,"NSW",27
+1644,445,"01- Champions","Male","Middle adults","Health","Mass Customer","No","4 Mariners Cove Street",2043,"NSW",57
+1547,455,"01- Champions","Female","Young adults","","Mass Customer","Yes","68 Delaware Avenue",2768,"NSW",82
+1950,554,"01- Champions","Male","Mature adults","Manufacturing","Affluent Customer","Yes","227 Havey Trail",2795,"NSW",27
+353,455,"01- Champions","Female","Middle adults","","Mass Customer","No","143 Elka Circle",3134,"VIC",9
+2053,545,"01- Champions","Male","Middle adults","Financial Services","Affluent Customer","Yes","896 Helena Parkway",4551,"QLD",7
+136,454,"01- Champions","Male","Middle adults","Manufacturing","High Net Worth","Yes","638 Thackeray Junction",4178,"QLD",46
+1616,445,"01- Champions","Male","Seniors","Retail","High Net Worth","Yes","5333 Aberg Lane",4877,"QLD",75
+1329,555,"01- Champions","Female","Young adults","","Mass Customer","No","9985 Barnett Circle",3940,"VIC",65
+167,455,"01- Champions","Female","Middle adults","Health","High Net Worth","Yes","75612 Clarendon Junction",4352,"QLD",95
+736,544,"01- Champions","Male","Middle adults","","High Net Worth","No","2726 Cardinal Way",3073,"VIC",41
+69,445,"01- Champions","Female","Middle adults","","Mass Customer","No","322 Dryden Court",3183,"VIC",16
+2210,455,"01- Champions","Male","Middle adults","Health","High Net Worth","No","2 Goodland Lane",3977,"VIC",16
+2747,555,"01- Champions","Female","Seniors","","Affluent Customer","No","5 Lakewood Gardens Court",2118,"NSW",5
+2434,555,"01- Champions","Male","Seniors","","Affluent Customer","No","1966 Glendale Avenue",4207,"QLD",40
+1378,545,"01- Champions","Female","Middle adults","Property","Affluent Customer","Yes","3831 Paget Road",3163,"VIC",36
+786,544,"01- Champions","Male","Middle adults","Financial Services","Affluent Customer","No","3 Crest Line Plaza",2223,"NSW",34
+1867,554,"01- Champions","Female","Middle adults","","Affluent Customer","No","1 Saint Paul Terrace",2161,"NSW",96
+1470,554,"01- Champions","Male","Young adults","Financial Services","High Net Worth","Yes","4 Gulseth Plaza",2528,"NSW",62
+2887,455,"01- Champions","Male","Middle adults","Financial Services","High Net Worth","Yes","177 Forest Run Crossing",2046,"NSW",42
+1098,554,"01- Champions","Female","Young adults","Financial Services","Mass Customer","Yes","9419 Homewood Way",2160,"NSW",99
+1811,455,"01- Champions","Male","Young adults","Financial Services","Mass Customer","No","1 Monterey Terrace",2011,"NSW",59
+3295,455,"01- Champions","Male","Mature adults","Retail","High Net Worth","Yes","133 Quincy Avenue",3810,"VIC",14
+1407,554,"01- Champions","Female","Middle adults","Manufacturing","Mass Customer","Yes","931 Rigney Terrace",3015,"VIC",43
+1845,445,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","No","4 Sunnyside Crossing",2125,"NSW",34
+357,454,"01- Champions","Female","Middle adults","","Affluent Customer","No","780 Carberry Place",3199,"VIC",21
+185,544,"01- Champions","Male","Middle adults","Property","Mass Customer","Yes","3567 Northfield Lane",2430,"NSW",80
+3431,455,"01- Champions","Male","Young adults","Property","Affluent Customer","No","373 Cordelia Trail",3500,"VIC",97
+1760,544,"01- Champions","Female","Mature adults","Health","High Net Worth","No","7714 Heffernan Circle",3130,"VIC",68
+2182,455,"01- Champions","Male","Mature adults","Entertainment","High Net Worth","Yes","3 Declaration Circle",4350,"QLD",47
+3118,555,"01- Champions","Male","Young adults","Health","High Net Worth","No","81183 Maple Wood Plaza",4152,"QLD",54
+3264,454,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","Yes","8 Marquette Court",2204,"NSW",88
+1396,555,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","No","8108 Clyde Gallagher Crossing",3756,"VIC",20
+2391,555,"01- Champions","Female","Mature adults","Health","Mass Customer","No","9501 Melby Avenue",4178,"QLD",72
+3105,545,"01- Champions","Male","Mature adults","Health","Mass Customer","No","146 Dakota Pass",4017,"QLD",88
+3014,455,"01- Champions","Female","Young adults","","High Net Worth","No","26378 Esch Junction",2065,"NSW",59
+3421,454,"01- Champions","Female","Mature adults","Health","Affluent Customer","Yes","8 Garrison Trail",2226,"NSW",60
+1390,554,"01- Champions","Female","Young adults","Retail","High Net Worth","Yes","2701 Talmadge Junction",3082,"VIC",74
+739,555,"01- Champions","Male","Mature adults","Manufacturing","Mass Customer","No","8260 Jay Court",3191,"VIC",36
+656,554,"01- Champions","Female","Middle adults","Manufacturing","High Net Worth","Yes","60 Meadow Vale Hill",3032,"VIC",80
+1812,454,"01- Champions","Female","Mature adults","Health","Affluent Customer","No","75 Duke Plaza",2147,"NSW",20
+1577,544,"01- Champions","Female","Middle adults","Manufacturing","High Net Worth","No","6 Hallows Pass",2118,"NSW",87
+171,455,"01- Champions","Female","Middle adults","Manufacturing","Mass Customer","No","13950 Jackson Avenue",2099,"NSW",62
+1449,445,"01- Champions","Female","Mature adults","","High Net Worth","No","5 Carioca Pass",2594,"NSW",38
+2401,455,"01- Champions","Male","Middle adults","","Mass Customer","Yes","4 Center Park",3807,"VIC",7
+2428,555,"01- Champions","Male","Mature adults","","Mass Customer","Yes","34222 Vera Circle",3240,"VIC",74
+94,445,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","No","67234 Transport Hill",2777,"NSW",33
+2762,455,"01- Champions","Female","Young adults","Manufacturing","Mass Customer","No","2121 Dapin Center",3977,"VIC",34
+2101,455,"01- Champions","Female","Young adults","","Mass Customer","Yes","344 Rockefeller Way",3966,"VIC",71
+127,454,"01- Champions","Female","Middle adults","Financial Services","Mass Customer","No","Pearson Crossing",4405,"QLD",81
+2946,454,"01- Champions","Male","Young adults","Property","Mass Customer","Yes","4 Glendale Crossing",3148,"VIC",14
+1517,455,"01- Champions","Male","Middle adults","IT","Affluent Customer","No","91433 Hollow Ridge Crossing",2210,"NSW",90
+1942,455,"01- Champions","Male","Middle adults","Financial Services","High Net Worth","No","184 Hoepker Way",2197,"NSW",0
+3074,545,"01- Champions","Male","Middle adults","Health","Mass Customer","Yes","6278 Old Shore Parkway",2250,"NSW",31
+1623,544,"01- Champions","Female","Young adults","Entertainment","High Net Worth","Yes","94181 South Park",3264,"VIC",29
+1110,445,"01- Champions","Male","Young adults","Retail","High Net Worth","No","9 Dayton Alley",3757,"VIC",73
+1748,555,"01- Champions","Male","Seniors","Manufacturing","Mass Customer","Yes","9810 Dayton Hill",4035,"QLD",83
+117,555,"01- Champions","Female","Middle adults","Manufacturing","Mass Customer","No","185 Pennsylvania Way",4226,"QLD",75
+62,545,"01- Champions","Female","Middle adults","IT","Mass Customer","Yes","41 Schurz Center",2749,"NSW",38
+621,555,"01- Champions","Male","Mature adults","","High Net Worth","No","363 Schiller Court",2763,"NSW",78
+2537,455,"01- Champions","Female","Young adults","","Affluent Customer","Yes","3144 Ruskin Trail",2046,"NSW",8
+2836,555,"01- Champions","Female","Mature adults","Health","Mass Customer","No","7827 Spohn Court",2093,"NSW",80
+1326,544,"01- Champions","Male","Mature adults","Health","Affluent Customer","Yes","38 Main Park",3188,"VIC",15
+936,455,"01- Champions","Male","Middle adults","Health","High Net Worth","No","5 Reindahl Point",3400,"VIC",64
+29,455,"01- Champions","Female","Mature adults","Manufacturing","Mass Customer","No","9 Buell Park",4116,"QLD",62
+3495,544,"01- Champions","Female","Middle adults","Financial Services","High Net Worth","No","1 Dayton Park",2767,"NSW",57
+1438,555,"01- Champions","Female","Middle adults","Health","Mass Customer","Yes","53649 Mandrake Place",2749,"NSW",27
+640,554,"01- Champions","Male","Middle adults","Entertainment","High Net Worth","Yes","18 Forest Avenue",2204,"NSW",12
+124,544,"01- Champions","Female","Young adults","Health","High Net Worth","Yes","739 Elmside Way",3074,"VIC",27
+3256,555,"01- Champions","Female","Middle adults","Financial Services","Affluent Customer","No","7798 Westport Trail",4031,"QLD",76
+89,555,"01- Champions","Male","Mature adults","Health","Mass Customer","Yes","73042 Roth Crossing",2100,"NSW",74
+1062,544,"01- Champions","Female","Middle adults","","Mass Customer","No","6 Pankratz Crossing",2228,"NSW",32
+204,455,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","No","4 Londonderry Lane",3084,"VIC",56
+1893,544,"01- Champions","Male","Mature adults","","Mass Customer","No","319 Michigan Way",4350,"QLD",25
+2880,455,"01- Champions","Male","Mature adults","Health","Mass Customer","No","8647 La Follette Court",2067,"NSW",43
+2360,445,"01- Champions","Female","Middle adults","Financial Services","High Net Worth","Yes","801 Kings Parkway",2227,"NSW",0
+465,544,"01- Champions","Female","Middle adults","Financial Services","Affluent Customer","Yes","3469 Service Road",2770,"NSW",54
+3335,544,"01- Champions","Male","Middle adults","Health","Mass Customer","No","3732 Linden Avenue",4820,"QLD",47
+1821,455,"01- Champions","Male","Middle adults","Entertainment","High Net Worth","Yes","3201 Canary Center",2540,"NSW",89
+3060,455,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","Yes","44 Northridge Plaza",2166,"NSW",28
+2961,545,"01- Champions","Male","Middle adults","Health","Mass Customer","Yes","8 Roxbury Way",3031,"VIC",56
+1494,455,"01- Champions","Male","Middle adults","","Mass Customer","Yes","5 Prentice Circle",2307,"NSW",46
+515,555,"01- Champions","Female","Young adults","IT","High Net Worth","No","12845 Paget Lane",2026,"NSW",55
+2072,554,"01- Champions","Female","Mature adults","Financial Services","Mass Customer","Yes","692 Leroy Parkway",3043,"VIC",30
+142,554,"01- Champions","Male","Mature adults","Health","Affluent Customer","No","68063 Blue Bill Park Center",3058,"VIC",57
+1519,554,"01- Champions","Male","Young adults","Telecommunications","High Net Worth","Yes","7 Bartillon Circle",2260,"NSW",35
+461,455,"01- Champions","Female","Middle adults","Health","Mass Customer","Yes","777 Farwell Pass",2118,"NSW",19
+719,554,"01- Champions","Male","Seniors","Retail","Mass Customer","No","14254 Hallows Parkway",4615,"QLD",2
+829,545,"01- Champions","Male","Young adults","Financial Services","High Net Worth","Yes","77 Nova Junction",3218,"VIC",84
+704,554,"01- Champions","Female","Young adults","Health","Mass Customer","No","70836 Colorado Plaza",2571,"NSW",49
+1530,555,"01- Champions","Male","Middle adults","Health","Mass Customer","Yes","84749 Holy Cross Terrace",2767,"NSW",89
+2947,445,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","No","64107 Little Fleur Trail",4211,"QLD",75
+25,555,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","Yes","28 5th Center",4413,"QLD",72
+903,454,"01- Champions","Male","Mature adults","Financial Services","Mass Customer","No","95530 Hallows Circle",4110,"QLD",46
+2498,554,"01- Champions","Female","Middle adults","Retail","High Net Worth","No","7623 Mandrake Trail",2093,"NSW",70
+2195,544,"01- Champions","Female","Middle adults","Financial Services","Affluent Customer","Yes","9 Barnett Street",4179,"QLD",94
+3283,545,"01- Champions","Female","Middle adults","Property","Mass Customer","Yes","60 Cordelia Parkway",2759,"NSW",46
+298,555,"01- Champions","Male","Seniors","Manufacturing","High Net Worth","No","83 Brickson Park Drive",3029,"VIC",69
+1629,545,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","No","10 Hazelcrest Street",4413,"QLD",46
+234,555,"01- Champions","Female","Middle adults","Retail","High Net Worth","No","816 Spohn Center",2036,"NSW",71
+2695,555,"01- Champions","Female","Middle adults","Manufacturing","Mass Customer","Yes","718 Fair Oaks Point",2068,"NSW",88
+1770,544,"01- Champions","Female","Young adults","","Mass Customer","Yes","40985 Cherokee Junction",2155,"NSW",63
+605,555,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","Yes","425 Thierer Junction",2761,"NSW",13
+2358,554,"01- Champions","Male","Mature adults","Retail","High Net Worth","Yes","6 Graceland Court",4301,"QLD",26
+2433,455,"01- Champions","Male","Middle adults","","High Net Worth","Yes","618 Kropf Drive",2261,"NSW",38
+1787,545,"01- Champions","Male","Middle adults","Retail","High Net Worth","Yes","79427 Hudson Trail",3677,"VIC",2
+2505,554,"01- Champions","Female","Middle adults","Financial Services","High Net Worth","No","30 Redwing Pass",2112,"NSW",45
+1478,554,"01- Champions","Male","Young adults","Financial Services","High Net Worth","No","12 Express Pass",2340,"NSW",40
+1299,545,"01- Champions","Female","Middle adults","","Affluent Customer","No","36072 Lakewood Gardens Court",4051,"QLD",72
+953,555,"01- Champions","Female","Middle adults","","Mass Customer","No","97 Aberg Pass",4720,"QLD",16
+2884,544,"01- Champions","Female","Mature adults","","Mass Customer","No","8369 Golf Court",2777,"NSW",99
+3407,454,"01- Champions","Male","Mature adults","Financial Services","High Net Worth","Yes","2181 Starling Trail",3015,"VIC",53
+2791,545,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","No","11 Manufacturers Junction",2170,"NSW",72
+2468,455,"01- Champions","Male","Young adults","Retail","High Net Worth","No","62052 Loomis Avenue",4014,"QLD",51
+2005,544,"01- Champions","Female","Middle adults","Manufacturing","High Net Worth","No","3984 Clove Street",3192,"VIC",41
+2013,455,"01- Champions","Female","Young adults","Health","Affluent Customer","Yes","6069 Hayes Road",2099,"NSW",99
+577,554,"01- Champions","Female","Seniors","Property","Mass Customer","Yes","8 Pawling Alley",3930,"VIC",41
+2955,454,"01- Champions","Male","Young adults","Financial Services","High Net Worth","No","7 Blue Bill Park Lane",2765,"NSW",74
+637,555,"01- Champions","Female","Middle adults","Health","High Net Worth","No","9427 Tennyson Plaza",2759,"NSW",60
+2060,555,"01- Champions","Female","Mature adults","Financial Services","Mass Customer","No","74164 Village Green Parkway",3037,"VIC",17
+2860,555,"01- Champions","Female","Young adults","","Mass Customer","No","221 Autumn Leaf Trail",2564,"NSW",13
+2465,554,"01- Champions","Female","Middle adults","","Mass Customer","Yes","Moulton Plaza",2761,"NSW",31
+2383,455,"01- Champions","Female","Middle adults","Financial Services","Mass Customer","No","25925 Service Crossing",2147,"NSW",34
+516,455,"01- Champions","Male","Seniors","Financial Services","Mass Customer","No","1 Vidon Pass",2233,"NSW",23
+3232,555,"01- Champions","Female","Young adults","Financial Services","Mass Customer","Yes","78258 Hanover Plaza",3070,"VIC",7
+1440,445,"01- Champions","Female","Mature adults","Financial Services","High Net Worth","Yes","8999 Elmside Pass",2749,"NSW",19
+1252,545,"01- Champions","Male","Mature adults","Manufacturing","Mass Customer","Yes","60320 Emmet Road",4806,"QLD",46
+2620,455,"01- Champions","Male","Young adults","Manufacturing","Mass Customer","No","61 Northfield Pass",2190,"NSW",26
+2528,445,"01- Champions","Male","Middle adults","Financial Services","Affluent Customer","No","3 Myrtle Terrace",4161,"QLD",81
+1272,455,"01- Champions","Female","Middle adults","Manufacturing","Affluent Customer","No","26 Portage Junction",4503,"QLD",2
+1868,445,"01- Champions","Female","Middle adults","Retail","Mass Customer","No","87705 Hovde Center",4870,"QLD",11
+213,455,"01- Champions","Male","Young adults","Financial Services","High Net Worth","Yes","6327 Lunder Crossing",4655,"QLD",13
+1133,445,"01- Champions","Male","Mature adults","Manufacturing","Affluent Customer","No","7674 Roxbury Junction",4815,"QLD",88
+1788,455,"01- Champions","Female","Mature adults","Financial Services","High Net Worth","Yes","67 Hooker Place",2380,"NSW",79
+1722,555,"01- Champions","Male","Mature adults","Financial Services","Mass Customer","No","86 Menomonie Plaza",2290,"NSW",52
+235,555,"01- Champions","Female","Middle adults","Health","Mass Customer","No","98 Service Court",2018,"NSW",30
+1492,545,"01- Champions","Female","Middle adults","","Mass Customer","No","4861 School Park",2290,"NSW",51
+1994,544,"01- Champions","Female","Middle adults","Manufacturing","High Net Worth","No","35 Debra Way",3201,"VIC",71
+1597,455,"01- Champions","Male","Middle adults","Retail","Affluent Customer","No","19 Derek Hill",2224,"NSW",93
+2379,555,"01- Champions","Female","Middle adults","Health","Affluent Customer","Yes","5390 Park Meadow Park",2222,"NSW",85
+2017,545,"01- Champions","Male","Young adults","Financial Services","Affluent Customer","Yes","644 Mcbride Street",2086,"NSW",67
+1088,544,"01- Champions","Female","Young adults","","High Net Worth","Yes","4328 Rowland Plaza",3441,"VIC",19
+1357,555,"01- Champions","Male","Young adults","Health","High Net Worth","No","43811 Golf View Road",3380,"VIC",69
+3191,555,"01- Champions","Female","Mature adults","Financial Services","Affluent Customer","Yes","1 Jenifer Court",4280,"QLD",29
+2492,555,"01- Champions","Male","Middle adults","Manufacturing","High Net Worth","No","46 Victoria Center",2770,"NSW",35
+833,455,"01- Champions","Male","Young adults","","High Net Worth","Yes","4444 Bunting Point",2430,"NSW",9
+594,455,"01- Champions","Male","Middle adults","","Mass Customer","No","25 Novick Center",2010,"NSW",74
+1537,455,"01- Champions","Male","Middle adults","Entertainment","Mass Customer","No","90323 Pine View Hill",2148,"NSW",23
+1113,455,"01- Champions","Male","Young adults","Property","Mass Customer","No","515 3rd Road",2037,"NSW",45
+1302,455,"01- Champions","Female","Young adults","Financial Services","Affluent Customer","Yes","9 Sugar Junction",4053,"QLD",29
+2865,545,"01- Champions","Female","Young adults","Manufacturing","High Net Worth","No","6804 Red Cloud Parkway",2099,"NSW",11
+3241,544,"01- Champions","Male","Middle adults","Manufacturing","Mass Customer","Yes","7574 Onsgard Drive",4011,"QLD",34
+1905,555,"01- Champions","Female","Seniors","Manufacturing","Affluent Customer","No","83975 Rowland Place",2166,"NSW",21
+3420,555,"01- Champions","Male","Middle adults","Financial Services","Mass Customer","Yes","283 Loftsgordon Center",4118,"QLD",96
+1493,455,"01- Champions","Female","Middle adults","Agriculture","High Net Worth","No","9 Sycamore Pass",2287,"NSW",51
+165,555,"01- Champions","Male","Middle adults","Agriculture","Mass Customer","Yes","22371 Miller Trail",2032,"NSW",61
+1506,555,"01- Champions","Male","Seniors","Property","Mass Customer","No","6 Canary Plaza",2223,"NSW",21
+1460,555,"01- Champions","Male","Middle adults","Financial Services","High Net Worth","Yes","25 Darwin Terrace",2207,"NSW",92
+2859,554,"01- Champions","Female","Young adults","Agriculture","High Net Worth","No","3519 Schurz Alley",4034,"QLD",98
+902,455,"01- Champions","Female","Young adults","Retail","Mass Customer","No","9 Northridge Lane",2340,"NSW",37
+633,544,"01- Champions","Male","Middle adults","","High Net Worth","Yes","32 Cody Place",4035,"QLD",51
+2418,545,"01- Champions","Female","Middle adults","Property","Mass Customer","Yes","31168 Messerschmidt Street",3024,"VIC",82
+2155,455,"01- Champions","Female","Mature adults","","Mass Customer","No","5882 American Ash Point",3214,"VIC",24
+2794,545,"01- Champions","Female","Middle adults","Health","Mass Customer","Yes","1209 Southridge Hill",2216,"NSW",41
+3199,555,"01- Champions","Female","Middle adults","","Mass Customer","Yes","8 Roth Hill",4208,"QLD",98
+2740,455,"01- Champions","Female","Mature adults","Financial Services","Affluent Customer","Yes","28820 Monica Circle",2226,"NSW",61
+3225,545,"01- Champions","Male","Middle adults","Health","Mass Customer","Yes","5 Iowa Road",2154,"NSW",19
+2536,545,"01- Champions","Female","Mature adults","Health","Mass Customer","Yes","601 Dryden Way",2264,"NSW",71
+1627,455,"01- Champions","Male","Mature adults","Entertainment","Affluent Customer","No","Namekagon Circle",3150,"VIC",44
+769,455,"01- Champions","Male","Mature adults","IT","Mass Customer","No","33 Loftsgordon Center",2150,"NSW",65
+2183,555,"01- Champions","Female","Middle adults","Manufacturing","Mass Customer","Yes","8142 Tomscot Drive",4132,"QLD",61
+3201,445,"01- Champions","Male","Young adults","Financial Services","Mass Customer","Yes","20 Bartillon Park",2767,"NSW",61
+1404,555,"01- Champions","Male","Seniors","Manufacturing","Mass Customer","Yes","88545 Milwaukee Center",3022,"VIC",78
+3402,555,"01- Champions","Female","Middle adults","Retail","Mass Customer","No","73 Glacier Hill Drive",2880,"NSW",73
+292,344,"02- Loyal","Female","Mature adults","","Affluent Customer","Yes","2 Brentwood Place",4151,"QLD",42
+2338,444,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","No","Butterfield Junction",2340,"NSW",13
+1250,355,"02- Loyal","Female","Young adults","Manufacturing","Mass Customer","No","795 Arapahoe Hill",4818,"QLD",42
+2412,444,"02- Loyal","Female","Middle adults","Manufacturing","Affluent Customer","No","881 Debs Center",4051,"QLD",77
+250,444,"02- Loyal","Male","Middle adults","Health","Mass Customer","Yes","91141 Huxley Parkway",2040,"NSW",53
+2912,355,"02- Loyal","Male","Middle adults","","High Net Worth","No","7916 Clyde Gallagher Place",2075,"NSW",60
+345,444,"02- Loyal","Female","Young adults","Health","High Net Worth","Yes","8 Ronald Regan Plaza",2251,"NSW",74
+710,345,"02- Loyal","Male","Middle adults","Retail","High Net Worth","Yes","1721 Nobel Junction",2753,"NSW",76
+692,355,"02- Loyal","Male","Middle adults","Property","Mass Customer","No","5 Maple Parkway",2160,"NSW",42
+1561,355,"02- Loyal","Male","Middle adults","Manufacturing","Mass Customer","Yes","61 Donald Crossing",2142,"NSW",47
+1132,354,"02- Loyal","Female","Middle adults","Financial Services","Affluent Customer","Yes","8 Hansons Street",3076,"VIC",99
+2489,355,"02- Loyal","Female","Middle adults","Retail","Mass Customer","No","9 Spaight Place",2102,"NSW",42
+1006,355,"02- Loyal","Male","Middle adults","Telecommunications","Affluent Customer","Yes","3383 Fair Oaks Circle",3046,"VIC",15
+1039,345,"02- Loyal","Female","Middle adults","","High Net Worth","Yes","3082 Almo Center",2454,"NSW",24
+1024,355,"02- Loyal","Female","Young adults","Health","High Net Worth","Yes","1128 Golden Leaf Center",3124,"VIC",17
+2024,444,"02- Loyal","Female","Young adults","IT","Mass Customer","Yes","53358 David Circle",4306,"QLD",69
+1029,444,"02- Loyal","Male","Young adults","","Mass Customer","No","1 Mcbride Center",2484,"NSW",71
+403,344,"02- Loyal","Female","Middle adults","","Mass Customer","Yes","32571 Dixon Center",3337,"VIC",40
+2194,355,"02- Loyal","Female","Seniors","Manufacturing","Affluent Customer","Yes","9045 Kings Avenue",4153,"QLD",79
+2701,355,"02- Loyal","Female","Mature adults","Health","Affluent Customer","Yes","41 Westport Center",3280,"VIC",13
+3173,345,"02- Loyal","Male","Young adults","Health","Mass Customer","Yes","8 Erie Center",3690,"VIC",55
+3228,345,"02- Loyal","Female","Mature adults","Health","Mass Customer","No","751 Cordelia Terrace",2880,"NSW",36
+2292,345,"02- Loyal","Female","Young adults","Health","Mass Customer","Yes","5015 Pawling Park",2525,"NSW",17
+2202,355,"02- Loyal","Female","Middle adults","Financial Services","Affluent Customer","Yes","26049 Straubel Point",2099,"NSW",46
+2309,355,"02- Loyal","Male","Middle adults","Manufacturing","Affluent Customer","No","991 Commercial Road",4300,"QLD",40
+2637,355,"02- Loyal","Female","Middle adults","Retail","Mass Customer","Yes","518 Colorado Trail",2100,"NSW",28
+2793,354,"02- Loyal","Male","Middle adults","Health","Affluent Customer","Yes","19 Del Mar Avenue",3058,"VIC",77
+2766,345,"02- Loyal","Female","Young adults","Financial Services","High Net Worth","Yes","95 Meadow Valley Plaza",2203,"NSW",93
+1104,543,"02- Loyal","Female","Mature adults","Retail","Mass Customer","No","22669 Lien Center",2565,"NSW",82
+3195,354,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","No","6590 Fremont Avenue",2077,"NSW",4
+1432,344,"02- Loyal","Male","Young adults","Agriculture","High Net Worth","Yes","1617 Beilfuss Street",2759,"NSW",70
+3261,344,"02- Loyal","Male","Middle adults","Property","Mass Customer","Yes","4591 Del Sol Court",2745,"NSW",6
+1388,444,"02- Loyal","Male","Middle adults","Financial Services","Mass Customer","No","70676 Eggendart Trail",3028,"VIC",86
+3247,354,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","Yes","3897 Oxford Pass",3350,"VIC",0
+849,444,"02- Loyal","Male","Middle adults","Entertainment","Mass Customer","No","2661 Di Loreto Point",4701,"QLD",72
+1435,345,"02- Loyal","Male","Mature adults","Telecommunications","Affluent Customer","Yes","8934 Park Meadow Street",2756,"NSW",96
+308,444,"02- Loyal","Male","Middle adults","IT","High Net Worth","No","5982 Mosinee Avenue",3340,"VIC",2
+1783,355,"02- Loyal","Male","Young adults","Retail","Mass Customer","Yes","7389 Union Place",2745,"NSW",55
+1933,354,"02- Loyal","Male","Middle adults","Manufacturing","Affluent Customer","No","7202 Prairieview Court",2221,"NSW",72
+1765,344,"02- Loyal","Female","Mature adults","","High Net Worth","No","10 Cambridge Street",4567,"QLD",48
+3077,444,"02- Loyal","Male","Young adults","Manufacturing","Affluent Customer","No","25578 Mayfield Drive",2099,"NSW",19
+2843,444,"02- Loyal","Female","Mature adults","Financial Services","Affluent Customer","Yes","37 Darwin Circle",2282,"NSW",42
+3361,345,"02- Loyal","Female","Mature adults","Property","Mass Customer","Yes","7330 Helena Pass",2176,"NSW",68
+2844,444,"02- Loyal","Female","Middle adults","Financial Services","Mass Customer","Yes","20 Carberry Circle",2165,"NSW",98
+2019,355,"02- Loyal","Female","Seniors","Entertainment","High Net Worth","No","5795 Comanche Circle",4825,"QLD",48
+2410,344,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","Yes","75351 Ridgeview Lane",3181,"VIC",75
+2375,345,"02- Loyal","Female","Middle adults","Retail","Affluent Customer","No","2 Melody Alley",3172,"VIC",21
+1881,345,"02- Loyal","Male","Seniors","","Affluent Customer","Yes","Superior Pass",2050,"NSW",61
+2279,354,"02- Loyal","Male","Middle adults","Health","Mass Customer","No","463 Rowland Drive",2066,"NSW",42
+329,344,"02- Loyal","Male","Middle adults","Entertainment","High Net Worth","Yes","19507 Red Cloud Park",3338,"VIC",25
+280,355,"02- Loyal","Male","Young adults","","Affluent Customer","Yes","8 Starling Pass",2767,"NSW",15
+1984,345,"02- Loyal","Male","Young adults","Health","Mass Customer","Yes","681 School Avenue",2077,"NSW",70
+917,355,"02- Loyal","Male","Mature adults","Financial Services","Mass Customer","No","50 2nd Center",3188,"VIC",63
+794,444,"02- Loyal","Male","Seniors","Financial Services","Affluent Customer","Yes","52737 Morningstar Crossing",2250,"NSW",99
+1916,345,"02- Loyal","Male","Young adults","Retail","High Net Worth","Yes","6838 Anniversary Junction",2484,"NSW",71
+1837,344,"02- Loyal","Male","Middle adults","Manufacturing","Mass Customer","Yes","46512 Cambridge Avenue",2759,"NSW",9
+2621,543,"02- Loyal","Female","Middle adults","Entertainment","High Net Worth","No","536 Crowley Crossing",2167,"NSW",24
+1669,344,"02- Loyal","Male","Middle adults","Financial Services","High Net Worth","Yes","709 Schmedeman Street",2155,"NSW",74
+3146,345,"02- Loyal","Female","Middle adults","Property","Mass Customer","No","7084 Mallory Center",2428,"NSW",79
+2560,355,"02- Loyal","Male","Middle adults","","Mass Customer","No","583 Eagle Crest Road",2000,"NSW",7
+2020,345,"02- Loyal","Female","Middle adults","Property","Affluent Customer","Yes","31 Scofield Trail",3020,"VIC",50
+2268,354,"02- Loyal","Female","Mature adults","Health","Mass Customer","No","9574 David Lane",3218,"VIC",66
+999,355,"02- Loyal","Female","Middle adults","","High Net Worth","No","5357 Mcguire Plaza",3073,"VIC",12
+2788,355,"02- Loyal","Female","Mature adults","Health","Affluent Customer","No","282 Esker Crossing",3150,"VIC",45
+2552,344,"02- Loyal","Male","Middle adults","Manufacturing","Affluent Customer","Yes","25 Coleman Circle",2214,"NSW",1
+1643,354,"02- Loyal","Female","Mature adults","Retail","Mass Customer","No","78 Bultman Junction",2047,"NSW",13
+3220,354,"02- Loyal","Male","Middle adults","Manufacturing","Affluent Customer","No","580 Blaine Center",2029,"NSW",53
+2310,444,"02- Loyal","Male","Middle adults","","High Net Worth","Yes","24198 Almo Crossing",2021,"NSW",12
+912,344,"02- Loyal","Male","Mature adults","Retail","Mass Customer","Yes","33 Kropf Hill",2211,"NSW",37
+1664,344,"02- Loyal","Male","Middle adults","Manufacturing","Affluent Customer","Yes","9161 Macpherson Terrace",4680,"QLD",11
+261,354,"02- Loyal","Male","Middle adults","","Mass Customer","No","7 Eastlawn Street",2346,"NSW",74
+380,355,"02- Loyal","Female","Seniors","Property","Mass Customer","No","24 Scoville Parkway",4670,"QLD",66
+570,344,"02- Loyal","Male","Middle adults","Financial Services","Mass Customer","Yes","446 Dottie Court",2225,"NSW",14
+3358,344,"02- Loyal","Male","Middle adults","Manufacturing","Affluent Customer","Yes","2170 Schiller Alley",2160,"NSW",30
+2527,345,"02- Loyal","Female","Middle adults","","Affluent Customer","Yes","633 Menomonie Junction",3523,"VIC",60
+2712,444,"02- Loyal","Female","Middle adults","Manufacturing","High Net Worth","Yes","18652 Springs Plaza",2259,"NSW",0
+1290,355,"02- Loyal","Male","Mature adults","Financial Services","High Net Worth","Yes","19679 Buell Pass",4305,"QLD",49
+2364,335,"02- Loyal","Male","Young adults","","Mass Customer","Yes","20 Bluestem Way",4152,"QLD",19
+560,344,"02- Loyal","Female","Seniors","Health","Affluent Customer","No","62117 Trailsway Place",3356,"VIC",1
+3204,354,"02- Loyal","Female","Young adults","Health","Mass Customer","Yes","220 American Ash Road",4022,"QLD",51
+2785,344,"02- Loyal","Female","Middle adults","Financial Services","Mass Customer","No","677 Golden Leaf Junction",4054,"QLD",9
+177,354,"02- Loyal","Female","Young adults","Financial Services","High Net Worth","No","82520 Mifflin Drive",2333,"NSW",25
+2248,354,"02- Loyal","Female","Young adults","Manufacturing","Mass Customer","No","47 Northfield Trail",3127,"VIC",33
+2910,354,"02- Loyal","Female","Mature adults","Health","Mass Customer","Yes","46418 Hauk Pass",3184,"VIC",15
+61,344,"02- Loyal","Female","Mature adults","Property","High Net Worth","No","44516 Katie Parkway",2765,"NSW",47
+788,344,"02- Loyal","Male","Mature adults","Health","Mass Customer","No","Mockingbird Junction",2141,"NSW",62
+2124,344,"02- Loyal","Male","Middle adults","Retail","High Net Worth","No","34 Vidon Way",3037,"VIC",17
+945,444,"02- Loyal","Male","Young adults","","High Net Worth","Yes","627 Ronald Regan Alley",4505,"QLD",59
+1736,344,"02- Loyal","Male","Young adults","IT","Affluent Customer","No","2538 Gateway Pass",4152,"QLD",83
+1820,355,"02- Loyal","Male","Young adults","IT","Affluent Customer","No","13 Armistice Street",2769,"NSW",12
+444,344,"02- Loyal","Female","Mature adults","Manufacturing","Mass Customer","Yes","421 Bobwhite Road",2160,"NSW",32
+1094,344,"02- Loyal","Male","Middle adults","Health","High Net Worth","No","6 Heffernan Junction",4074,"QLD",48
+1335,344,"02- Loyal","Female","Young adults","Entertainment","Mass Customer","Yes","4 Sycamore Pass",3977,"VIC",57
+1224,344,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","No","81 American Place",2259,"NSW",9
+2105,435,"02- Loyal","Male","Middle adults","Health","High Net Worth","Yes","884 Surrey Pass",3912,"VIC",29
+1884,444,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","Yes","36 Sommers Place",2096,"NSW",19
+1426,344,"02- Loyal","Female","Seniors","Financial Services","Mass Customer","No","4817 Fulton Junction",2761,"NSW",72
+2413,344,"02- Loyal","Male","Seniors","Manufacturing","High Net Worth","Yes","423 Debra Terrace",3082,"VIC",27
+1136,344,"02- Loyal","Male","Middle adults","Property","High Net Worth","No","92 Melvin Hill",2147,"NSW",72
+2591,345,"02- Loyal","Male","Middle adults","Retail","High Net Worth","No","5342 Hallows Lane",2021,"NSW",50
+750,345,"02- Loyal","Male","Young adults","Retail","Affluent Customer","Yes","99 Wayridge Place",2263,"NSW",42
+3208,344,"02- Loyal","Female","Mature adults","","High Net Worth","No","43 South Pass",3620,"VIC",53
+2723,355,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","Yes","8941 Harbort Point",2148,"NSW",71
+2611,543,"02- Loyal","Female","Young adults","Financial Services","Affluent Customer","No","23426 Transport Center",2218,"NSW",36
+2768,444,"02- Loyal","Male","Young adults","Manufacturing","Mass Customer","No","9 Cascade Junction",2016,"NSW",86
+3103,355,"02- Loyal","Female","Seniors","Retail","Mass Customer","No","32304 Larry Road",4014,"QLD",5
+333,444,"02- Loyal","Female","Mature adults","Financial Services","Affluent Customer","Yes","314 Northland Plaza",4213,"QLD",25
+1949,444,"02- Loyal","Female","Seniors","Manufacturing","Mass Customer","No","1197 Carey Junction",2280,"NSW",9
+1531,344,"02- Loyal","Female","Mature adults","Financial Services","Mass Customer","Yes","486 Clyde Gallagher Road",2170,"NSW",20
+908,543,"02- Loyal","Female","Middle adults","Financial Services","Affluent Customer","Yes","352 Bonner Crossing",3084,"VIC",86
+365,345,"02- Loyal","Female","Middle adults","Property","High Net Worth","No","411 Homewood Lane",4020,"QLD",98
+2082,543,"02- Loyal","Female","Middle adults","Health","Affluent Customer","Yes","73637 Nancy Street",2469,"NSW",38
+733,355,"02- Loyal","Male","Middle adults","Manufacturing","Mass Customer","No","98 Esker Junction",2192,"NSW",25
+748,354,"02- Loyal","Female","Middle adults","Financial Services","High Net Worth","No","56045 Express Avenue",2176,"NSW",51
+1398,345,"02- Loyal","Female","Mature adults","Manufacturing","Mass Customer","No","60447 Ridgeway Plaza",3048,"VIC",11
+3389,344,"02- Loyal","Female","Middle adults","","Affluent Customer","No","24 Onsgard Alley",3134,"VIC",27
+2727,335,"02- Loyal","Female","Middle adults","Financial Services","High Net Worth","Yes","5 Lerdahl Place",4215,"QLD",88
+2641,543,"02- Loyal","Female","Middle adults","","Mass Customer","Yes","52753 Logan Hill",2031,"NSW",71
+579,354,"02- Loyal","Female","Middle adults","Health","Mass Customer","No","4559 Stoughton Lane",2097,"NSW",89
+2771,335,"02- Loyal","Female","Middle adults","Retail","Affluent Customer","Yes","83007 Bartillon Lane",2830,"NSW",6
+3120,444,"02- Loyal","Female","Middle adults","Health","Mass Customer","Yes","4 Shopko Circle",2196,"NSW",89
+221,444,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","No","51 Crescent Oaks Parkway",2761,"NSW",14
+630,354,"02- Loyal","Male","Middle adults","Property","Affluent Customer","Yes","87 Linden Park",2153,"NSW",90
+51,355,"02- Loyal","Male","Mature adults","Retail","Mass Customer","No","4853 Gulseth Avenue",4503,"QLD",68
+2331,444,"02- Loyal","Female","Mature adults","Financial Services","Mass Customer","Yes","94 Twin Pines Trail",2567,"NSW",48
+2877,354,"02- Loyal","Male","Mature adults","Property","Affluent Customer","Yes","463 Bultman Crossing",4211,"QLD",59
+1818,444,"02- Loyal","Female","Mature adults","Entertainment","Mass Customer","Yes","42952 Fairfield Center",3012,"VIC",64
+1468,444,"02- Loyal","Female","Middle adults","Financial Services","Mass Customer","No","45725 Hagan Pass",2519,"NSW",37
+2886,354,"02- Loyal","Female","Mature adults","","Mass Customer","No","53683 Arapahoe Parkway",2121,"NSW",39
+110,543,"02- Loyal","Male","Young adults","Financial Services","Affluent Customer","No","5 Moose Road",3977,"VIC",23
+1613,354,"02- Loyal","Female","Middle adults","Property","Mass Customer","No","55433 Schmedeman Lane",2263,"NSW",18
+2014,344,"02- Loyal","Female","Young adults","Manufacturing","Mass Customer","Yes","828 Waubesa Pass",2234,"NSW",49
+394,355,"02- Loyal","Female","Middle adults","Health","High Net Worth","Yes","7343 Washington Road",2287,"NSW",70
+1646,444,"02- Loyal","Female","Young adults","Financial Services","Mass Customer","Yes","515 Monterey Terrace",2107,"NSW",39
+648,344,"02- Loyal","Male","Middle adults","Financial Services","Mass Customer","Yes","9 Mayfield Road",4551,"QLD",86
+471,344,"02- Loyal","Female","Seniors","Financial Services","Affluent Customer","No","663 Bellgrove Parkway",3812,"VIC",82
+295,345,"02- Loyal","Female","Mature adults","","Mass Customer","Yes","76 Graedel Street",4812,"QLD",64
+2269,345,"02- Loyal","Female","Young adults","","Mass Customer","No","1 Del Sol Center",2323,"NSW",33
+263,344,"02- Loyal","Female","Middle adults","Health","High Net Worth","No","50 Everett Way",2064,"NSW",89
+3383,444,"02- Loyal","Male","Middle adults","Financial Services","Affluent Customer","Yes","48 Rockefeller Court",3786,"VIC",47
+2179,344,"02- Loyal","Male","Mature adults","Manufacturing","Mass Customer","No","966 Emmet Trail",3015,"VIC",15
+47,344,"02- Loyal","Male","Young adults","Health","Affluent Customer","No","543 Killdeer Park",2322,"NSW",51
+1576,344,"02- Loyal","Male","Middle adults","Financial Services","Mass Customer","No","3525 Buena Vista Plaza",2120,"NSW",77
+1714,344,"02- Loyal","Female","Young adults","Property","High Net Worth","Yes","20415 Clyde Gallagher Parkway",2333,"NSW",80
+198,355,"02- Loyal","Female","Middle adults","Entertainment","Mass Customer","No","5484 Hagan Crossing",3021,"VIC",82
+352,444,"02- Loyal","Male","Middle adults","Retail","Mass Customer","No","6 Sunbrook Center",4350,"QLD",12
+1838,335,"02- Loyal","Female","Mature adults","Financial Services","Affluent Customer","Yes","54250 Welch Pass",3145,"VIC",14
+3032,345,"02- Loyal","Male","Young adults","Health","Affluent Customer","Yes","7 Lerdahl Court",4207,"QLD",53
+1475,355,"02- Loyal","Male","Middle adults","Retail","Affluent Customer","Yes","558 Thompson Junction",2440,"NSW",41
+2942,543,"02- Loyal","Male","Middle adults","","High Net Worth","No","5060 Donald Park",2539,"NSW",10
+3395,543,"02- Loyal","Male","Young adults","Financial Services","Mass Customer","No","1716 2nd Terrace",3174,"VIC",76
+2542,345,"02- Loyal","Female","Mature adults","Property","Affluent Customer","Yes","2 Larry Trail",2207,"NSW",43
+1925,543,"02- Loyal","Female","Middle adults","","Mass Customer","Yes","6 Upham Place",4556,"QLD",34
+1731,354,"02- Loyal","Female","Mature adults","Health","High Net Worth","Yes","672 Mitchell Terrace",4161,"QLD",26
+2189,355,"02- Loyal","Male","Young adults","Financial Services","High Net Worth","No","63123 Merry Alley",4500,"QLD",43
+1356,444,"02- Loyal","Female","Middle adults","","High Net Worth","No","1 Bayside Pass",3076,"VIC",12
+2985,355,"02- Loyal","Male","Middle adults","Retail","Affluent Customer","Yes","3 Mariners Cove Terrace",2216,"NSW",69
+3405,355,"02- Loyal","Female","Young adults","Financial Services","Mass Customer","Yes","80269 Southridge Park",4014,"QLD",89
+1890,355,"02- Loyal","Male","Middle adults","Financial Services","Mass Customer","No","9460 Laurel Crossing",4032,"QLD",89
+1056,444,"02- Loyal","Male","Mature adults","Manufacturing","Affluent Customer","No","5811 Hanson Lane",2260,"NSW",96
+627,335,"02- Loyal","Female","Middle adults","","High Net Worth","No","6 Springs Junction",4123,"QLD",24
+506,355,"02- Loyal","Female","Middle adults","Retail","Mass Customer","No","808 Debra Center",3911,"VIC",43
+367,344,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","Yes","279 Jenna Circle",2179,"NSW",93
+1367,543,"02- Loyal","Female","Middle adults","Retail","Mass Customer","No","5413 Harbort Terrace",3226,"VIC",63
+3166,345,"02- Loyal","Male","Seniors","Health","Mass Customer","No","1 Glacier Hill Parkway",2017,"NSW",96
+223,344,"02- Loyal","Male","Middle adults","","Affluent Customer","Yes","78 Surrey Place",2502,"NSW",13
+1417,344,"02- Loyal","Female","Mature adults","Manufacturing","High Net Worth","Yes","83758 Kings Hill",2770,"NSW",12
+1171,354,"02- Loyal","Female","Middle adults","","Affluent Customer","Yes","95 Forest Run Drive",4152,"QLD",32
+1824,543,"02- Loyal","Female","Mature adults","Manufacturing","Affluent Customer","Yes","2364 Dovetail Way",3048,"VIC",12
+1866,355,"02- Loyal","Male","Young adults","Manufacturing","Mass Customer","No","7 Canary Circle",2047,"NSW",27
+421,344,"02- Loyal","Female","Young adults","Retail","Mass Customer","Yes","690 Hanson Center",2330,"NSW",26
+44,345,"02- Loyal","Male","Middle adults","Entertainment","Affluent Customer","Yes","89314 Eagle Crest Center",4670,"QLD",63
+1443,355,"02- Loyal","Female","Middle adults","Financial Services","Affluent Customer","Yes","3416 Texas Pass",2747,"NSW",47
+856,543,"02- Loyal","Male","Middle adults","Financial Services","Mass Customer","Yes","94 Anhalt Way",3139,"VIC",63
+1181,354,"02- Loyal","Female","Middle adults","Agriculture","Mass Customer","No","8 Clyde Gallagher Court",4217,"QLD",2
+3499,345,"02- Loyal","Male","Middle adults","Manufacturing","Mass Customer","Yes","310 Stephen Terrace",4073,"QLD",29
+770,344,"02- Loyal","Female","Middle adults","IT","High Net Worth","Yes","80 Scofield Alley",3121,"VIC",10
+1593,344,"02- Loyal","Female","Middle adults","IT","Mass Customer","No","2272 Buena Vista Center",2065,"NSW",69
+2028,344,"02- Loyal","Female","Middle adults","Retail","Affluent Customer","Yes","2228 Steensland Terrace",2148,"NSW",25
+3406,355,"02- Loyal","Female","Middle adults","IT","Mass Customer","Yes","5 Northland Plaza",2096,"NSW",35
+2154,344,"02- Loyal","Female","Middle adults","Manufacturing","High Net Worth","No","799 Florence Street",2089,"NSW",86
+254,345,"02- Loyal","Female","Mature adults","Retail","Mass Customer","No","850 Schmedeman Drive",3580,"VIC",98
+57,335,"02- Loyal","Male","Middle adults","","Mass Customer","Yes","89787 Village Green Terrace",4280,"QLD",87
+2045,354,"02- Loyal","Female","Middle adults","Financial Services","High Net Worth","No","46031 Hudson Place",2075,"NSW",15
+1588,444,"02- Loyal","Male","Middle adults","IT","High Net Worth","Yes","7032 Hallows Drive",2126,"NSW",24
+255,355,"02- Loyal","Female","Seniors","IT","Mass Customer","No","131 Northfield Parkway",3355,"VIC",2
+3370,354,"02- Loyal","Male","Seniors","","High Net Worth","Yes","1 Nevada Alley",2076,"NSW",8
+1848,344,"02- Loyal","Male","Middle adults","Manufacturing","Mass Customer","No","1714 Claremont Center",2474,"NSW",22
+3017,344,"02- Loyal","Male","Seniors","Financial Services","Affluent Customer","No","885 Larry Park",3140,"VIC",88
+558,344,"02- Loyal","Female","Middle adults","","Mass Customer","No","6 Eggendart Circle",3016,"VIC",96
+3350,345,"02- Loyal","Male","Middle adults","Manufacturing","Affluent Customer","No","736 Ohio Court",2200,"NSW",53
+2919,444,"02- Loyal","Male","Mature adults","Financial Services","High Net Worth","Yes","11 Glendale Court",4121,"QLD",47
+871,354,"02- Loyal","Female","Young adults","","Mass Customer","Yes","71039 Packers Street",2034,"NSW",40
+438,355,"02- Loyal","Male","Young adults","Property","High Net Worth","Yes","7 Gerald Place",3074,"VIC",25
+549,354,"02- Loyal","Male","Middle adults","Retail","Mass Customer","Yes","2 East Circle",2716,"NSW",84
+968,344,"02- Loyal","Male","Seniors","IT","High Net Worth","Yes","Park Meadow Terrace",2450,"NSW",96
+1639,444,"02- Loyal","Female","Mature adults","Manufacturing","Mass Customer","Yes","89 Bartillon Plaza",2753,"NSW",9
+1258,355,"02- Loyal","Male","Middle adults","Manufacturing","Mass Customer","No","71 Sundown Circle",4720,"QLD",89
+864,344,"02- Loyal","Male","Middle adults","Retail","High Net Worth","Yes","48 Bobwhite Crossing",4122,"QLD",6
+2750,355,"02- Loyal","Female","Middle adults","Property","High Net Worth","No","68730 Hermina Place",3130,"VIC",42
+3327,354,"02- Loyal","Male","Middle adults","Manufacturing","Mass Customer","No","973 Menomonie Hill",3337,"VIC",84
+737,344,"02- Loyal","Female","Middle adults","","Mass Customer","No","3 Talisman Place",4811,"QLD",75
+2283,444,"02- Loyal","Male","Seniors","","High Net Worth","No","369 Milwaukee Court",3630,"VIC",44
+289,354,"02- Loyal","Female","Middle adults","Health","High Net Worth","No","7169 North Lane",2023,"NSW",43
+1611,355,"02- Loyal","Male","Middle adults","Health","High Net Worth","Yes","6491 Gerald Court",2261,"NSW",93
+1570,355,"02- Loyal","Female","Young adults","Entertainment","Mass Customer","No","97910 Leroy Junction",2073,"NSW",70
+655,345,"02- Loyal","Male","Middle adults","Manufacturing","Affluent Customer","Yes","2884 Welch Lane",3807,"VIC",64
+201,444,"02- Loyal","Male","Mature adults","Manufacturing","Mass Customer","Yes","32 Steensland Plaza",2233,"NSW",45
+2531,543,"02- Loyal","Male","Middle adults","Property","High Net Worth","Yes","46 Dawn Way",2340,"NSW",48
+2538,355,"02- Loyal","Female","Mature adults","","High Net Worth","Yes","94554 Derek Trail",2009,"NSW",13
+2717,355,"02- Loyal","Male","Middle adults","Health","Mass Customer","No","6994 Hanson Place",2580,"NSW",31
+2530,543,"02- Loyal","Female","Mature adults","Property","Mass Customer","Yes","2757 Green Ridge Circle",2567,"NSW",63
+610,354,"02- Loyal","Male","Seniors","Financial Services","Mass Customer","Yes","3785 Dapin Drive",2036,"NSW",45
+2804,344,"02- Loyal","Male","Mature adults","","Mass Customer","Yes","2 Elka Trail",2770,"NSW",61
+1935,344,"02- Loyal","Male","Middle adults","","Mass Customer","No","53 Muir Terrace",2170,"NSW",72
+499,354,"02- Loyal","Male","Mature adults","Financial Services","Affluent Customer","No","2 Boyd Crossing",3143,"VIC",39
+1755,344,"02- Loyal","Female","Middle adults","Property","Mass Customer","No","78 Jackson Point",2047,"NSW",38
+2046,355,"02- Loyal","Female","Mature adults","","Mass Customer","Yes","8 Crowley Terrace",2760,"NSW",3
+2508,355,"02- Loyal","Male","Young adults","","Mass Customer","No","6220 Sugar Court",2300,"NSW",98
+2901,345,"02- Loyal","Male","Young adults","Manufacturing","Mass Customer","Yes","848 Cascade Alley",4301,"QLD",77
+112,345,"02- Loyal","Female","Middle adults","Retail","High Net Worth","No","David Terrace",3204,"VIC",88
+2097,345,"02- Loyal","Male","Middle adults","Telecommunications","Mass Customer","No","4081 Lighthouse Bay Alley",4053,"QLD",38
+2459,355,"02- Loyal","Female","Middle adults","Manufacturing","High Net Worth","No","975 Annamark Hill",4034,"QLD",67
+2787,345,"02- Loyal","Female","Middle adults","","Affluent Customer","Yes","3 Cordelia Place",3018,"VIC",92
+2288,444,"02- Loyal","Male","Mature adults","Manufacturing","High Net Worth","No","66 Talmadge Terrace",3630,"VIC",63
+2222,344,"02- Loyal","Female","Middle adults","Financial Services","Mass Customer","No","9115 Mockingbird Crossing",2145,"NSW",20
+1825,345,"02- Loyal","Male","Mature adults","Financial Services","Mass Customer","Yes","738 Sloan Place",3212,"VIC",82
+1218,345,"02- Loyal","Female","Middle adults","","Mass Customer","Yes","Evergreen Road",3037,"VIC",12
+2071,444,"02- Loyal","Female","Middle adults","","Mass Customer","No","2982 Monterey Way",3182,"VIC",69
+2217,444,"02- Loyal","Male","Middle adults","Financial Services","Mass Customer","No","47 Chinook Road",4421,"QLD",98
+2258,344,"02- Loyal","Female","Middle adults","Retail","High Net Worth","No","9 Waxwing Pass",2008,"NSW",63
+2883,345,"02- Loyal","Male","Young adults","Financial Services","Mass Customer","Yes","4 Vahlen Alley",2756,"NSW",84
+2223,344,"02- Loyal","Female","Middle adults","Health","Mass Customer","No","2 Michigan Parkway",3006,"VIC",38
+2592,355,"02- Loyal","Male","Young adults","Financial Services","Mass Customer","Yes","303 Michigan Avenue",3977,"VIC",84
+2769,344,"02- Loyal","Male","Middle adults","Manufacturing","Affluent Customer","Yes","77 Clemons Road",2203,"NSW",31
+2615,355,"02- Loyal","Female","Young adults","Financial Services","Mass Customer","Yes","51313 Fulton Junction",2580,"NSW",23
+1937,345,"02- Loyal","Male","Middle adults","Health","Mass Customer","No","698 Old Gate Lane",2619,"NSW",69
+2051,345,"02- Loyal","Female","Mature adults","Manufacturing","Affluent Customer","No","51960 Gulseth Point",2009,"NSW",8
+211,354,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","Yes","78 Rockefeller Park",2159,"NSW",6
+1615,345,"02- Loyal","Female","Middle adults","Entertainment","Mass Customer","Yes","24 Fuller Lane",3183,"VIC",75
+3148,344,"02- Loyal","Male","Middle adults","","High Net Worth","Yes","90880 Donald Lane",2519,"NSW",11
+887,355,"02- Loyal","Male","Young adults","Manufacturing","High Net Worth","No","707 Spaight Place",2830,"NSW",55
+1996,543,"02- Loyal","Male","Middle adults","Manufacturing","Mass Customer","No","6698 Melody Crossing",4556,"QLD",4
+532,444,"02- Loyal","Female","Mature adults","Financial Services","Affluent Customer","No","39632 Michigan Park",4165,"QLD",25
+2380,345,"02- Loyal","Female","Seniors","Retail","Mass Customer","Yes","4 Judy Park",2016,"NSW",44
+1411,344,"02- Loyal","Female","Young adults","Health","Mass Customer","Yes","45 Tony Trail",2259,"NSW",24
+923,444,"02- Loyal","Male","Middle adults","Financial Services","High Net Worth","No","43455 Carey Center",4131,"QLD",44
+1798,543,"02- Loyal","Female","Young adults","Manufacturing","High Net Worth","Yes","93 Lakeland Court",3810,"VIC",46
+220,444,"02- Loyal","Female","Seniors","Manufacturing","High Net Worth","No","7 Pankratz Point",3011,"VIC",79
+1585,354,"02- Loyal","Male","Mature adults","Health","Mass Customer","Yes","70416 Becker Court",2099,"NSW",87
+1982,354,"02- Loyal","Female","Mature adults","Financial Services","High Net Worth","Yes","8 Farwell Parkway",2428,"NSW",80
+2703,444,"02- Loyal","Female","Middle adults","Manufacturing","Affluent Customer","Yes","4826 Crowley Park",2779,"NSW",37
+2918,344,"02- Loyal","Female","Young adults","Financial Services","Mass Customer","Yes","66 Arrowood Court",4551,"QLD",58
+1579,355,"02- Loyal","Female","Middle adults","Financial Services","Affluent Customer","Yes","82 Hanover Avenue",2101,"NSW",40
+1254,344,"02- Loyal","Male","Seniors","Retail","Mass Customer","Yes","563 Northport Drive",4701,"QLD",60
+827,354,"02- Loyal","Female","Young adults","Health","Affluent Customer","No","1 Oriole Alley",4171,"QLD",90
+1400,345,"02- Loyal","Female","Middle adults","Manufacturing","Affluent Customer","Yes","73506 Cordelia Lane",4217,"QLD",51
+1308,435,"02- Loyal","Male","Middle adults","","Affluent Customer","Yes","32 Vidon Point",4118,"QLD",34
+147,345,"02- Loyal","Female","Middle adults","Health","Mass Customer","Yes","12375 Cambridge Pass",2065,"NSW",32
+707,344,"02- Loyal","Male","Middle adults","","Mass Customer","Yes","520 Stephen Pass",3011,"VIC",97
+1850,345,"02- Loyal","Male","Middle adults","Manufacturing","High Net Worth","No","95294 Karstens Park",2155,"NSW",4
+2616,355,"02- Loyal","Female","Middle adults","","High Net Worth","Yes","889 Sundown Trail",2162,"NSW",28
+2318,444,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","Yes","44778 Bellgrove Crossing",3205,"VIC",30
+1672,355,"02- Loyal","Female","Mature adults","IT","Affluent Customer","Yes","29438 Swallow Crossing",2217,"NSW",21
+3249,355,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","Yes","49 Surrey Pass",2325,"NSW",46
+3067,344,"02- Loyal","Female","Young adults","Manufacturing","Mass Customer","Yes","2178 Washington Hill",3806,"VIC",8
+1389,355,"02- Loyal","Female","Mature adults","Health","Affluent Customer","No","5586 Buena Vista Avenue",3106,"VIC",27
+3108,345,"02- Loyal","Male","Mature adults","Entertainment","Mass Customer","No","1742 Scott Center",4670,"QLD",94
+428,354,"02- Loyal","Female","Middle adults","Health","High Net Worth","Yes","8 Moland Pass",2065,"NSW",0
+13,444,"02- Loyal","Male","Seniors","Financial Services","High Net Worth","Yes","2 Sutherland Street",3799,"VIC",38
+1750,345,"02- Loyal","Male","Mature adults","Entertainment","Mass Customer","Yes","7 Laurel Avenue",2125,"NSW",14
+2923,543,"02- Loyal","Female","Middle adults","","Affluent Customer","Yes","3957 American Ash Plaza",2440,"NSW",46
+446,355,"02- Loyal","Female","Middle adults","IT","Affluent Customer","Yes","3 Loomis Crossing",2217,"NSW",73
+894,354,"02- Loyal","Female","Middle adults","Financial Services","High Net Worth","Yes","7 Meadow Ridge Center",2165,"NSW",13
+2190,355,"02- Loyal","Female","Middle adults","IT","Affluent Customer","No","4478 Banding Way",2830,"NSW",77
+2590,345,"02- Loyal","Female","Mature adults","Financial Services","Affluent Customer","Yes","27 Grayhawk Alley",2102,"NSW",48
+2820,345,"02- Loyal","Male","Middle adults","Manufacturing","Affluent Customer","Yes","68 Roth Crossing",2295,"NSW",44
+2284,345,"02- Loyal","Female","Middle adults","Telecommunications","High Net Worth","No","10055 Old Shore Lane",3630,"VIC",83
+1368,344,"02- Loyal","Female","Middle adults","Property","Mass Customer","No","3444 Scott Lane",3204,"VIC",54
+2595,355,"02- Loyal","Male","Middle adults","","Affluent Customer","Yes","755 Ramsey Terrace",4152,"QLD",56
+1797,355,"02- Loyal","Male","Middle adults","","Mass Customer","No","18083 Mallard Drive",3075,"VIC",49
+1559,345,"02- Loyal","Male","Middle adults","Health","High Net Worth","Yes","2 Darwin Parkway",2118,"NSW",63
+39,355,"02- Loyal","Male","Middle adults","Entertainment","Mass Customer","No","38726 Ilene Crossing",2212,"NSW",5
+337,344,"02- Loyal","Female","Middle adults","Agriculture","High Net Worth","Yes","1 Rowland Circle",3105,"VIC",67
+2281,354,"02- Loyal","Female","Young adults","","High Net Worth","Yes","33550 Spohn Terrace",3630,"VIC",56
+1030,355,"02- Loyal","Female","Mature adults","Health","Mass Customer","No","4870 Shelley Alley",3225,"VIC",9
+33,345,"02- Loyal","Male","Seniors","","Affluent Customer","Yes","63 Lukken Drive",2170,"NSW",44
+1809,444,"02- Loyal","Female","Mature adults","Health","Mass Customer","Yes","7 Erie Court",2263,"NSW",67
+2184,355,"02- Loyal","Male","Middle adults","Health","Mass Customer","No","396 Sachs Road",2147,"NSW",49
+2481,444,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","Yes","51800 Meadow Vale Point",3023,"VIC",71
+2048,345,"02- Loyal","Female","Mature adults","Financial Services","High Net Worth","No","56 Sommers Point",2204,"NSW",22
+921,355,"02- Loyal","Female","Middle adults","Manufacturing","Mass Customer","No","3828 Norway Maple Avenue",2027,"NSW",77
+3426,344,"02- Loyal","Male","Mature adults","Entertainment","Mass Customer","No","3047 Spenser Pass",2750,"NSW",40
+1345,345,"02- Loyal","Male","Mature adults","Manufacturing","Mass Customer","No","294 Lawn Junction",3677,"VIC",94
+3015,355,"02- Loyal","Female","Young adults","Retail","Affluent Customer","No","2942 Swallow Trail",4214,"QLD",25
+1985,543,"02- Loyal","Female","Middle adults","","Mass Customer","Yes","27 Dawn Lane",2233,"NSW",1
+442,543,"02- Loyal","Male","Young adults","Financial Services","Mass Customer","No","3 Sutteridge Park",4074,"QLD",2
+3224,354,"02- Loyal","Female","Young adults","Manufacturing","Affluent Customer","No","50506 Buhler Terrace",3083,"VIC",67
+2351,355,"02- Loyal","Female","Young adults","Retail","Affluent Customer","Yes","866 Pennsylvania Junction",3181,"VIC",35
+1282,355,"02- Loyal","Male","Middle adults","Entertainment","Affluent Customer","Yes","791 Elgar Trail",4340,"QLD",99
+401,444,"02- Loyal","Female","Middle adults","Retail","Mass Customer","No","5359 Alpine Hill",2579,"NSW",56
+3242,345,"02- Loyal","Female","Seniors","Manufacturing","Affluent Customer","Yes","683 Scoville Park",3168,"VIC",4
+3360,354,"02- Loyal","Female","Mature adults","Health","Affluent Customer","No","435 Kennedy Circle",2173,"NSW",77
+2627,444,"02- Loyal","Female","Middle adults","Retail","Mass Customer","Yes","383 Little Fleur Circle",2753,"NSW",7
+941,355,"02- Loyal","Male","Young adults","Financial Services","Affluent Customer","Yes","5 Gale Street",4507,"QLD",13
+935,345,"02- Loyal","Male","Young adults","","Mass Customer","Yes","33 Farwell Crossing",2575,"NSW",76
+1776,344,"02- Loyal","Male","Middle adults","Financial Services","Affluent Customer","No","56 Bultman Parkway",4721,"QLD",77
+1259,344,"02- Loyal","Female","Middle adults","Financial Services","Mass Customer","No","33 Bayside Way",4702,"QLD",23
+3170,344,"02- Loyal","Female","Mature adults","Entertainment","Mass Customer","No","13 Marcy Alley",3138,"VIC",67
+636,444,"02- Loyal","Female","Middle adults","","Mass Customer","No","8 Golf Drive",2747,"NSW",42
+24,444,"02- Loyal","Female","Middle adults","Agriculture","Mass Customer","Yes","3 Cordelia Plaza",2153,"NSW",55
+691,355,"02- Loyal","Male","Seniors","Financial Services","Affluent Customer","Yes","8179 Veith Pass",2577,"NSW",29
+3088,543,"02- Loyal","Male","Middle adults","Retail","Affluent Customer","Yes","5 Lotheville Parkway",2760,"NSW",92
+1728,344,"02- Loyal","Male","Middle adults","Financial Services","Affluent Customer","No","Pierstorff Place",2770,"NSW",41
+1374,355,"02- Loyal","Male","Middle adults","Manufacturing","Mass Customer","No","393 Warrior Crossing",3190,"VIC",76
+230,355,"02- Loyal","Female","Seniors","Property","High Net Worth","No","4 5th Point",2075,"NSW",74
+2102,444,"02- Loyal","Male","Middle adults","","Affluent Customer","No","434 Eggendart Circle",2260,"NSW",80
+3240,355,"02- Loyal","Male","Middle adults","","Mass Customer","Yes","3 Pepper Wood Point",2760,"NSW",90
+1217,543,"02- Loyal","Female","Mature adults","Manufacturing","High Net Worth","No","387 Pawling Drive",2580,"NSW",67
+420,354,"02- Loyal","Male","Seniors","Entertainment","High Net Worth","No","3 Oriole Place",3183,"VIC",93
+2601,355,"02- Loyal","Female","Middle adults","Financial Services","Affluent Customer","No","9 Cambridge Junction",2315,"NSW",48
+3055,355,"02- Loyal","Female","Young adults","","Mass Customer","Yes","99142 Eastwood Way",4870,"QLD",96
+1549,543,"02- Loyal","Female","Young adults","Financial Services","Affluent Customer","Yes","46 Grim Pass",2148,"NSW",87
+1887,355,"02- Loyal","Female","Mature adults","IT","Affluent Customer","Yes","72 Mandrake Court",3183,"VIC",22
+2361,444,"02- Loyal","Female","Seniors","","High Net Worth","Yes","89 Pawling Court",4020,"QLD",55
+1131,355,"02- Loyal","Male","Seniors","","Mass Customer","No","4284 Debra Drive",4814,"QLD",16
+2847,344,"02- Loyal","Female","Middle adults","Health","Mass Customer","No","48418 Crescent Oaks Court",2770,"NSW",50
+1178,355,"02- Loyal","Male","Middle adults","Health","Mass Customer","No","05 Independence Drive",2118,"NSW",1
+2397,354,"02- Loyal","Male","Middle adults","Retail","Affluent Customer","Yes","44083 Village Court",2142,"NSW",33
+590,355,"02- Loyal","Female","Middle adults","Health","Mass Customer","Yes","9816 Carberry Trail",2036,"NSW",85
+2990,543,"02- Loyal","Male","Middle adults","Agriculture","High Net Worth","No","3 Lukken Road",2066,"NSW",65
+1979,435,"02- Loyal","Male","Mature adults","Manufacturing","Mass Customer","Yes","38759 Butterfield Avenue",4305,"QLD",98
+2622,444,"02- Loyal","Male","Middle adults","Financial Services","Mass Customer","No","Erie Lane",4405,"QLD",13
+2027,543,"02- Loyal","Male","Mature adults","","High Net Worth","No","9670 4th Point",2065,"NSW",89
+3300,444,"02- Loyal","Male","Mature adults","Retail","Mass Customer","No","8 Upham Place",2176,"NSW",47
+2599,344,"02- Loyal","Female","Seniors","Manufacturing","Mass Customer","No","357 Elgar Alley",3910,"VIC",9
+1527,354,"02- Loyal","Male","Young adults","Manufacturing","Mass Customer","No","83 Luster Drive",2848,"NSW",23
+3371,355,"02- Loyal","Female","Middle adults","Retail","Mass Customer","No","805 Division Plaza",4165,"QLD",56
+647,355,"02- Loyal","Male","Seniors","Retail","Mass Customer","Yes","678 Old Gate Pass",3171,"VIC",61
+490,355,"02- Loyal","Female","Young adults","Agriculture","Mass Customer","No","8670 Pine View Street",3070,"VIC",44
+11,344,"02- Loyal","Male","Seniors","Property","Mass Customer","No","93405 Ludington Park",3044,"VIC",99
+1870,344,"02- Loyal","Female","Middle adults","","Affluent Customer","No","248 Bartillon Plaza",4059,"QLD",24
+1947,354,"02- Loyal","Female","Mature adults","Telecommunications","Affluent Customer","Yes","4262 Melvin Avenue",2759,"NSW",66
+607,355,"02- Loyal","Female","Middle adults","Health","Mass Customer","No","164 Canary Drive",2041,"NSW",55
+402,345,"02- Loyal","Male","Middle adults","Retail","Affluent Customer","No","586 Miller Parkway",2835,"NSW",9
+1586,444,"02- Loyal","Female","Middle adults","Manufacturing","High Net Worth","No","256 Fordem Street",2119,"NSW",47
+1826,344,"02- Loyal","Male","Mature adults","Manufacturing","High Net Worth","Yes","318 Jenifer Alley",2119,"NSW",33
+3478,444,"02- Loyal","Male","Middle adults","Health","Mass Customer","No","90 Westerfield Street",2880,"NSW",54
+3104,344,"02- Loyal","Female","Young adults","Property","Mass Customer","Yes","9 Dryden Crossing",4118,"QLD",19
+626,354,"02- Loyal","Male","Young adults","Manufacturing","Mass Customer","No","226 Rowland Street",4178,"QLD",12
+1545,543,"02- Loyal","Male","Middle adults","Health","Mass Customer","Yes","8595 Ruskin Plaza",3196,"VIC",34
+3445,444,"02- Loyal","Male","Mature adults","Financial Services","Affluent Customer","Yes","59531 Barnett Pass",3352,"VIC",62
+2652,435,"02- Loyal","Male","Seniors","","Affluent Customer","Yes","16 Hudson Alley",2234,"NSW",96
+507,344,"02- Loyal","Female","Middle adults","Health","Mass Customer","No","8739 Service Park",2250,"NSW",98
+3126,345,"02- Loyal","Male","Middle adults","Financial Services","High Net Worth","No","98 Grover Street",3048,"VIC",7
+1003,355,"02- Loyal","Female","Mature adults","Financial Services","High Net Worth","No","610 Lakewood Gardens Point",4078,"QLD",35
+2684,355,"02- Loyal","Male","Mature adults","Health","Mass Customer","Yes","111 Hooker Avenue",4860,"QLD",96
+564,532,"03- Potential Loyalist","Female","Middle adults","Retail","High Net Worth","No","19 Lakewood Gardens Way",2760,"NSW",7
+1315,552,"03- Potential Loyalist","Female","Middle adults","IT","Mass Customer","Yes","55326 Fulton Hill",3931,"VIC",46
+285,533,"03- Potential Loyalist","Female","Middle adults","Manufacturing","Mass Customer","No","58 Parkside Hill",2117,"NSW",3
+962,542,"03- Potential Loyalist","Male","Middle adults","","High Net Worth","Yes","4 Kennedy Trail",3147,"VIC",49
+1668,533,"03- Potential Loyalist","Female","Mature adults","Financial Services","Mass Customer","No","4889 Tomscot Park",2093,"NSW",75
+2682,353,"03- Potential Loyalist","Female","Middle adults","Manufacturing","High Net Worth","Yes","446 Warrior Pass",4740,"QLD",54
+2161,333,"03- Potential Loyalist","Male","Young adults","Financial Services","Mass Customer","No","Delladonna Parkway",3189,"VIC",35
+1,553,"03- Potential Loyalist","Female","Seniors","Health","Mass Customer","Yes","60 Morning Avenue",2016,"NSW",93
+1165,553,"03- Potential Loyalist","Female","Young adults","Financial Services","High Net Worth","No","11 Corscot Plaza",2710,"NSW",58
+2466,431,"03- Potential Loyalist","Male","Middle adults","Entertainment","High Net Worth","No","188 Carberry Point",4650,"QLD",62
+3174,432,"03- Potential Loyalist","Female","Middle adults","Financial Services","Affluent Customer","No","40 Brown Trail",2040,"NSW",67
+1814,333,"03- Potential Loyalist","Female","Middle adults","Retail","Affluent Customer","No","91 Mosinee Point",2166,"NSW",33
+2467,432,"03- Potential Loyalist","Female","Middle adults","Manufacturing","Affluent Customer","Yes","83 Farragut Avenue",2540,"NSW",71
+673,532,"03- Potential Loyalist","Male","Middle adults","Health","Mass Customer","Yes","2836 Morning Drive",2304,"NSW",35
+2954,532,"03- Potential Loyalist","Female","Middle adults","Health","Mass Customer","No","3 New Castle Terrace",3032,"VIC",23
+1340,452,"03- Potential Loyalist","Male","Middle adults","","High Net Worth","No","5061 Cottonwood Trail",3765,"VIC",16
+2862,532,"03- Potential Loyalist","Male","Middle adults","Financial Services","Mass Customer","No","4623 Anniversary Terrace",2031,"NSW",46
+137,431,"03- Potential Loyalist","Male","Middle adults","Property","High Net Worth","No","869 Forster Circle",2112,"NSW",27
+3372,433,"03- Potential Loyalist","Male","Seniors","Telecommunications","High Net Worth","No","42554 Randy Road",2047,"NSW",62
+977,333,"03- Potential Loyalist","Female","Mature adults","","High Net Worth","Yes","92 Bunker Hill Trail",2558,"NSW",65
+2282,433,"03- Potential Loyalist","Male","Seniors","Financial Services","Affluent Customer","Yes","953 Del Sol Point",3630,"VIC",81
+429,452,"03- Potential Loyalist","Female","Middle adults","IT","High Net Worth","Yes","25386 Fallview Place",2340,"NSW",7
+321,532,"03- Potential Loyalist","Female","Middle adults","","Mass Customer","No","41 Spaight Road",4503,"QLD",58
+3302,423,"03- Potential Loyalist","Male","Seniors","Financial Services","Affluent Customer","No","6406 Parkside Hill",2017,"NSW",17
+2681,333,"03- Potential Loyalist","Female","Middle adults","Manufacturing","Affluent Customer","Yes","53485 Sycamore Junction",3192,"VIC",78
+3455,532,"03- Potential Loyalist","Male","Seniors","","Mass Customer","Yes","757 Debs Avenue",4670,"QLD",29
+1697,433,"03- Potential Loyalist","Female","Middle adults","Health","Mass Customer","Yes","9037 Norway Maple Junction",2087,"NSW",44
+2875,323,"03- Potential Loyalist","Male","Young adults","Financial Services","High Net Worth","No","2241 Bonner Trail",4221,"QLD",71
+1624,532,"03- Potential Loyalist","Male","Middle adults","Financial Services","Mass Customer","Yes","718 Colorado Court",2220,"NSW",18
+821,433,"03- Potential Loyalist","Male","Middle adults","Financial Services","Mass Customer","Yes","59000 American Center",2530,"NSW",41
+1986,333,"03- Potential Loyalist","Female","Middle adults","Retail","Mass Customer","No","366 International Way",2170,"NSW",53
+1767,533,"03- Potential Loyalist","Female","Mature adults","Manufacturing","Affluent Customer","Yes","3 Nevada Road",4215,"QLD",28
+2624,432,"03- Potential Loyalist","Male","Mature adults","Retail","Mass Customer","Yes","8 Lake View Way",3977,"VIC",37
+717,432,"03- Potential Loyalist","Male","Middle adults","Manufacturing","Mass Customer","Yes","37 Banding Avenue",2567,"NSW",65
+2251,442,"03- Potential Loyalist","Male","Mature adults","Property","High Net Worth","No","81 Forest Dale Center",3555,"VIC",68
+2366,433,"03- Potential Loyalist","Female","Middle adults","Health","Mass Customer","Yes","33 Prentice Street",2300,"NSW",51
+937,423,"03- Potential Loyalist","Male","Middle adults","Manufacturing","Affluent Customer","No","8882 Valley Edge Junction",2145,"NSW",65
+1913,353,"03- Potential Loyalist","Female","Middle adults","Health","Mass Customer","Yes","81856 Express Lane",2299,"NSW",36
+1733,333,"03- Potential Loyalist","Male","Middle adults","Financial Services","High Net Worth","No","7962 Dottie Park",2284,"NSW",10
+3034,323,"03- Potential Loyalist","Female","Seniors","Manufacturing","Mass Customer","Yes","638 Browning Terrace",3079,"VIC",54
+2448,533,"03- Potential Loyalist","Female","Young adults","Property","High Net Worth","No","11 Dunning Pass",2219,"NSW",5
+2392,431,"03- Potential Loyalist","Female","Young adults","Manufacturing","Affluent Customer","No","69810 Westridge Avenue",2573,"NSW",48
+759,453,"03- Potential Loyalist","Male","Mature adults","Health","High Net Worth","No","4 Vahlen Junction",2227,"NSW",89
+984,352,"03- Potential Loyalist","Male","Seniors","Manufacturing","Affluent Customer","No","7380 Canary Pass",3111,"VIC",89
+1052,533,"03- Potential Loyalist","Female","Middle adults","Financial Services","High Net Worth","No","6 Declaration Hill",3184,"VIC",31
+777,433,"03- Potential Loyalist","Male","Young adults","Financial Services","High Net Worth","No","6 Melody Trail",2145,"NSW",2
+72,423,"03- Potential Loyalist","Male","Middle adults","Manufacturing","Affluent Customer","Yes","29466 Hanson Pass",4208,"QLD",93
+2672,452,"03- Potential Loyalist","Male","Middle adults","Health","Affluent Customer","No","8 Eagle Crest Circle",2137,"NSW",21
+1878,433,"03- Potential Loyalist","Male","Seniors","Health","Affluent Customer","No","4 Bartelt Hill",4510,"QLD",6
+1861,433,"03- Potential Loyalist","Female","Mature adults","Manufacturing","Mass Customer","Yes","7939 Toban Crossing",2770,"NSW",26
+2803,433,"03- Potential Loyalist","Female","Middle adults","Retail","Mass Customer","Yes","53245 Mesta Street",3207,"VIC",95
+1688,342,"03- Potential Loyalist","Female","Middle adults","","Mass Customer","No","72 Mosinee Court",3146,"VIC",80
+517,533,"03- Potential Loyalist","Female","Middle adults","Property","Mass Customer","Yes","590 Hayes Court",2027,"NSW",73
+156,433,"03- Potential Loyalist","Female","Middle adults","Financial Services","Mass Customer","Yes","9 Huxley Circle",3191,"VIC",23
+666,333,"03- Potential Loyalist","Female","Middle adults","Health","High Net Worth","Yes","25 Mesta Plaza",3975,"VIC",82
+1581,353,"03- Potential Loyalist","Female","Middle adults","Agriculture","Mass Customer","No","45314 Pepper Wood Junction",2251,"NSW",26
+1047,352,"03- Potential Loyalist","Male","Middle adults","Financial Services","Affluent Customer","No","6 Pawling Trail",2871,"NSW",39
+2382,341,"03- Potential Loyalist","Male","Middle adults","Retail","Mass Customer","Yes","3 Riverside Drive",4034,"QLD",79
+350,531,"03- Potential Loyalist","Female","Middle adults","Health","Mass Customer","Yes","1826 Hazelcrest Park",3087,"VIC",47
+1153,433,"03- Potential Loyalist","Female","Young adults","Health","Mass Customer","Yes","84 Monument Terrace",4127,"QLD",53
+874,353,"03- Potential Loyalist","Male","Young adults","Health","Mass Customer","Yes","2 School Street",2010,"NSW",78
+1467,542,"03- Potential Loyalist","Female","Middle adults","Manufacturing","Mass Customer","Yes","11606 Myrtle Street",2207,"NSW",1
+1384,333,"03- Potential Loyalist","Female","Young adults","Manufacturing","Mass Customer","No","6837 West Pass",4119,"QLD",48
+1409,433,"03- Potential Loyalist","Female","Young adults","","Mass Customer","No","11207 Lukken Center",3500,"VIC",69
+2363,333,"03- Potential Loyalist","Male","Middle adults","Entertainment","Mass Customer","Yes","17123 Northport Circle",4223,"QLD",92
+3325,333,"03- Potential Loyalist","Male","Young adults","Manufacturing","High Net Worth","No","421 Anthes Court",2870,"NSW",80
+3133,532,"03- Potential Loyalist","Female","Young adults","Manufacturing","Mass Customer","No","21 2nd Pass",2566,"NSW",89
+2325,533,"03- Potential Loyalist","Male","Mature adults","Retail","High Net Worth","Yes","92 Schlimgen Hill",3023,"VIC",50
+3314,333,"03- Potential Loyalist","Female","Middle adults","Financial Services","Mass Customer","Yes","257 Ruskin Crossing",2200,"NSW",50
+1191,351,"03- Potential Loyalist","Female","Young adults","","Mass Customer","Yes","135 Crest Line Drive",2044,"NSW",20
+1934,533,"03- Potential Loyalist","Male","Mature adults","","Affluent Customer","Yes","64610 Sachtjen Center",2575,"NSW",70
+2526,333,"03- Potential Loyalist","Male","Middle adults","Manufacturing","Mass Customer","No","283 Claremont Hill",2138,"NSW",89
+843,532,"03- Potential Loyalist","Male","Young adults","Manufacturing","Affluent Customer","Yes","71801 Grover Point",2166,"NSW",80
+2009,552,"03- Potential Loyalist","Female","Mature adults","Health","Affluent Customer","Yes","6466 Troy Street",2763,"NSW",19
+3158,433,"03- Potential Loyalist","Male","Middle adults","Telecommunications","Mass Customer","Yes","64 Quincy Alley",4170,"QLD",27
+3042,532,"03- Potential Loyalist","Male","Middle adults","Property","High Net Worth","Yes","5649 Crest Line Place",4455,"QLD",76
+437,333,"03- Potential Loyalist","Male","Middle adults","Manufacturing","Affluent Customer","Yes","91 Porter Pass",3064,"VIC",24
+1580,353,"03- Potential Loyalist","Male","Middle adults","Retail","High Net Worth","No","3384 Nelson Circle",4227,"QLD",23
+3219,452,"03- Potential Loyalist","Female","Young adults","Financial Services","Mass Customer","No","423 Mcbride Place",2477,"NSW",94
+3238,432,"03- Potential Loyalist","Male","Middle adults","Retail","Mass Customer","No","8 Rockefeller Lane",2306,"NSW",23
+186,432,"03- Potential Loyalist","Female","Middle adults","Financial Services","Mass Customer","No","59 Brentwood Road",4560,"QLD",46
+1650,532,"03- Potential Loyalist","Female","Middle adults","","High Net Worth","No","5274 Lindbergh Alley",4217,"QLD",44
+1026,431,"03- Potential Loyalist","Male","Young adults","Financial Services","Affluent Customer","No","66 Hudson Crossing",2153,"NSW",66
+203,531,"03- Potential Loyalist","Male","Mature adults","Agriculture","Mass Customer","Yes","2 Gina Junction",2085,"NSW",71
+1156,323,"03- Potential Loyalist","Female","Young adults","Agriculture","Mass Customer","Yes","98 Veith Hill",4510,"QLD",22
+3152,532,"03- Potential Loyalist","Female","Young adults","Financial Services","High Net Worth","Yes","250 Onsgard Center",4034,"QLD",6
+3331,333,"03- Potential Loyalist","Female","Middle adults","Financial Services","Mass Customer","No","11 Hermina Junction",3219,"VIC",18
+1229,453,"03- Potential Loyalist","Male","Young adults","Manufacturing","Affluent Customer","Yes","7929 Grasskamp Trail",2119,"NSW",38
+140,533,"03- Potential Loyalist","Male","Young adults","Manufacturing","Mass Customer","No","829 Washington Crossing",3186,"VIC",9
+940,323,"03- Potential Loyalist","Female","Middle adults","Manufacturing","Mass Customer","No","54905 Anniversary Pass",4570,"QLD",3
+653,333,"03- Potential Loyalist","Male","Mature adults","Financial Services","Affluent Customer","Yes","67 Aberg Hill",2519,"NSW",68
+2958,542,"03- Potential Loyalist","Male","Middle adults","Manufacturing","Affluent Customer","Yes","337 Brentwood Pass",2529,"NSW",10
+2997,432,"03- Potential Loyalist","Female","Middle adults","Health","Affluent Customer","No","9 Texas Plaza",4285,"QLD",57
+2969,533,"03- Potential Loyalist","Male","Middle adults","","Mass Customer","Yes","22239 Waubesa Way",2763,"NSW",12
+3263,431,"03- Potential Loyalist","Female","Middle adults","Manufacturing","Affluent Customer","No","15566 Waxwing Place",2135,"NSW",37
+850,353,"03- Potential Loyalist","Male","Young adults","Health","Mass Customer","No","36 Kedzie Terrace",2163,"NSW",79
+1314,423,"03- Potential Loyalist","Female","Middle adults","Health","Mass Customer","Yes","210 Esch Park",2452,"NSW",25
+587,333,"03- Potential Loyalist","Male","Mature adults","Health","Mass Customer","Yes","1192 Declaration Hill",3207,"VIC",43
+3303,433,"03- Potential Loyalist","Male","Mature adults","Telecommunications","Affluent Customer","Yes","5 Larry Terrace",3130,"VIC",51
+1413,533,"03- Potential Loyalist","Female","Young adults","Financial Services","Mass Customer","No","967 Farmco Road",2880,"NSW",47
+2645,431,"03- Potential Loyalist","Male","Young adults","IT","High Net Worth","Yes","78 Shasta Place",2135,"NSW",20
+1532,533,"03- Potential Loyalist","Female","Middle adults","Financial Services","Mass Customer","Yes","305 Vera Lane",2165,"NSW",27
+1864,453,"03- Potential Loyalist","Female","Mature adults","Retail","Mass Customer","No","3007 Summer Ridge Street",4511,"QLD",45
+529,532,"03- Potential Loyalist","Male","Young adults","Retail","Affluent Customer","Yes","66834 Melby Way",2160,"NSW",18
+2349,333,"03- Potential Loyalist","Female","Middle adults","Telecommunications","High Net Worth","No","99 Eastlawn Way",2360,"NSW",23
+523,433,"03- Potential Loyalist","Female","Middle adults","Financial Services","Affluent Customer","Yes","62 Northport Lane",2049,"NSW",44
+2677,432,"03- Potential Loyalist","Male","Seniors","Financial Services","Mass Customer","No","336 Fordem Trail",2088,"NSW",34
+1944,531,"03- Potential Loyalist","Male","Middle adults","Agriculture","High Net Worth","Yes","9525 Johnson Place",3190,"VIC",73
+2732,453,"03- Potential Loyalist","Female","Mature adults","Health","Mass Customer","No","5705 Spaight Place",3067,"VIC",36
+1122,433,"03- Potential Loyalist","Female","Middle adults","","Mass Customer","No","4079 Lindbergh Center",3021,"VIC",59
+3020,453,"03- Potential Loyalist","Male","Mature adults","Manufacturing","High Net Worth","Yes","2 Scott Pass",4870,"QLD",13
+2952,433,"03- Potential Loyalist","Female","Middle adults","Manufacturing","High Net Worth","Yes","10 Kensington Avenue",2117,"NSW",28
+701,432,"03- Potential Loyalist","Male","Seniors","Health","Mass Customer","Yes","537 Packers Street",4562,"QLD",18
+2685,333,"03- Potential Loyalist","Female","Middle adults","","Mass Customer","No","51 Dixon Court",2570,"NSW",42
+1405,352,"03- Potential Loyalist","Female","Seniors","Manufacturing","High Net Worth","Yes","70 Shelley Terrace",3020,"VIC",52
+2995,533,"03- Potential Loyalist","Male","Young adults","Health","Mass Customer","Yes","24 Old Shore Crossing",2250,"NSW",60
+397,333,"03- Potential Loyalist","Female","Middle adults","Financial Services","Affluent Customer","Yes","5 Florence Hill",4124,"QLD",86
+2485,532,"03- Potential Loyalist","Male","Seniors","","Mass Customer","Yes","1 Forster Junction",2880,"NSW",93
+2444,323,"03- Potential Loyalist","Male","Middle adults","Manufacturing","High Net Worth","No","8 Superior Court",3174,"VIC",22
+2693,533,"03- Potential Loyalist","Male","Mature adults","Health","High Net Worth","Yes","3 Old Shore Terrace",4078,"QLD",91
+3082,432,"03- Potential Loyalist","Male","Young adults","Manufacturing","Mass Customer","Yes","837 Elmside Center",2761,"NSW",68
+1822,531,"03- Potential Loyalist","Female","Mature adults","Financial Services","Mass Customer","No","4365 Basil Junction",2539,"NSW",67
+1524,353,"03- Potential Loyalist","Female","Middle adults","Financial Services","Mass Customer","Yes","534 Bartelt Trail",2760,"NSW",7
+408,433,"03- Potential Loyalist","Male","Young adults","Financial Services","Affluent Customer","No","981 West Way",3133,"VIC",79
+795,433,"03- Potential Loyalist","Female","Middle adults","Financial Services","High Net Worth","No","866 Rockefeller Junction",2171,"NSW",35
+3147,531,"03- Potential Loyalist","Female","Middle adults","Retail","Affluent Customer","Yes","502 John Wall Pass",3199,"VIC",21
+661,333,"03- Potential Loyalist","Female","Middle adults","IT","High Net Worth","No","30274 Graedel Way",2577,"NSW",35
+884,533,"03- Potential Loyalist","Male","Middle adults","Property","Mass Customer","No","6419 Dayton Junction",3191,"VIC",11
+1702,432,"03- Potential Loyalist","Male","Seniors","Health","Mass Customer","No","51 Hollow Ridge Terrace",2768,"NSW",14
+1761,423,"03- Potential Loyalist","Female","Middle adults","Manufacturing","Mass Customer","Yes","2 Portage Avenue",2170,"NSW",96
+2098,532,"03- Potential Loyalist","Female","Middle adults","Health","High Net Worth","No","794 Kennedy Court",4740,"QLD",82
+338,542,"03- Potential Loyalist","Female","Seniors","Health","Mass Customer","No","7 Arapahoe Pass",3101,"VIC",33
+625,432,"03- Potential Loyalist","Female","Middle adults","Entertainment","High Net Worth","Yes","8 Melrose Road",4116,"QLD",33
+149,432,"03- Potential Loyalist","Female","Young adults","Health","Mass Customer","Yes","939 Coleman Pass",4509,"QLD",41
+3448,533,"03- Potential Loyalist","Male","Middle adults","Financial Services","High Net Worth","No","6691 Lindbergh Drive",2147,"NSW",26
+398,541,"03- Potential Loyalist","Female","Middle adults","Retail","Affluent Customer","No","95 Prairieview Circle",3191,"VIC",20
+1421,333,"03- Potential Loyalist","Female","Seniors","Property","Mass Customer","No","2 Alpine Circle",2765,"NSW",74
+2198,423,"03- Potential Loyalist","Male","Young adults","Property","Affluent Customer","Yes","6631 Farragut Terrace",2148,"NSW",1
+2378,533,"03- Potential Loyalist","Female","Young adults","Manufacturing","Affluent Customer","No","51 Leroy Place",2065,"NSW",41
+1402,353,"03- Potential Loyalist","Male","Young adults","Telecommunications","Mass Customer","No","42829 Charing Cross Road",3107,"VIC",58
+859,432,"03- Potential Loyalist","Female","Middle adults","Financial Services","Affluent Customer","Yes","6 Harper Lane",2150,"NSW",53
+3393,532,"03- Potential Loyalist","Female","Seniors","Retail","Mass Customer","Yes","Weeping Birch Plaza",2093,"NSW",23
+76,553,"03- Potential Loyalist","Female","Middle adults","Retail","High Net Worth","Yes","439 Ridgeway Court",4213,"QLD",20
+17,532,"03- Potential Loyalist","Male","Mature adults","","Affluent Customer","Yes","82391 Kensington Lane",3058,"VIC",57
+1481,453,"03- Potential Loyalist","Female","Middle adults","Financial Services","Affluent Customer","No","38 North Court",2333,"NSW",93
+2987,423,"03- Potential Loyalist","Female","Middle adults","","High Net Worth","Yes","23812 Tony Lane",2036,"NSW",51
+2357,323,"03- Potential Loyalist","Female","Mature adults","Manufacturing","Mass Customer","No","9292 Mcguire Plaza",2073,"NSW",39
+148,323,"03- Potential Loyalist","Female","Middle adults","","Mass Customer","Yes","3 Granby Parkway",3216,"VIC",69
+676,433,"03- Potential Loyalist","Male","Mature adults","","High Net Worth","Yes","4 Sunfield Circle",2194,"NSW",51
+683,431,"03- Potential Loyalist","Male","Mature adults","Manufacturing","Mass Customer","Yes","40545 Forster Point",2262,"NSW",60
+3355,533,"03- Potential Loyalist","Female","Young adults","Manufacturing","Mass Customer","No","45 Talisman Pass",4102,"QLD",50
+835,553,"03- Potential Loyalist","Male","Mature adults","Manufacturing","Mass Customer","Yes","285 Aberg Point",2192,"NSW",85
+433,453,"03- Potential Loyalist","Male","Mature adults","Property","Affluent Customer","No","9 Graceland Junction",3204,"VIC",94
+3231,533,"03- Potential Loyalist","Male","Middle adults","","Affluent Customer","Yes","7 Bayside Point",3085,"VIC",84
+2166,333,"03- Potential Loyalist","Female","Middle adults","Property","Mass Customer","No","47204 Rigney Street",2770,"NSW",78
+818,333,"03- Potential Loyalist","Female","Middle adults","Manufacturing","Mass Customer","No","65 Sachtjen Park",2067,"NSW",17
+1015,432,"03- Potential Loyalist","Male","Seniors","Health","Mass Customer","No","738 Division Street",3024,"VIC",7
+2471,533,"03- Potential Loyalist","Male","Middle adults","Manufacturing","Mass Customer","Yes","77 Armistice Alley",2208,"NSW",55
+440,553,"03- Potential Loyalist","Female","Middle adults","Telecommunications","Mass Customer","No","1693 Artisan Hill",2259,"NSW",46
+2689,532,"03- Potential Loyalist","Male","Middle adults","","Mass Customer","No","52541 Lakewood Gardens Court",3922,"VIC",17
+873,433,"03- Potential Loyalist","Male","Mature adults","Health","Affluent Customer","Yes","2377 Maywood Trail",2287,"NSW",37
+2015,333,"03- Potential Loyalist","Female","Middle adults","Health","Affluent Customer","No","1 Bobwhite Circle",2230,"NSW",6
+2479,532,"03- Potential Loyalist","Female","Young adults","Retail","Mass Customer","No","88540 Scoville Plaza",3195,"VIC",81
+684,353,"03- Potential Loyalist","Male","Middle adults","Financial Services","Mass Customer","No","8425 Jackson Terrace",2763,"NSW",88
