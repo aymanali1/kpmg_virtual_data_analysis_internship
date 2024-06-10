@@ -1,0 +1,52 @@
+id,first_name,last_name,gender,past_3_years_bike_related_purchases,dob,job_title,job_industry_category,wealth_segment,deceased_indicator,owns_car,tenure,address,postcode,state,country,property_valuation,Rank,Value,age,age_category
+1,Rutledge,Hallt,Male,23,10/6/1976,Compensation Analyst,Financial Services,Mass Customer,N,No,8,7 Nevada Crossing,2620,NSW,Australia,7,6,1.67,47,Middle adults
+2,Melba,Spellacy,Female,38,12/9/1976,VP Marketing,Health,Mass Customer,N,No,4,0591 Anzinger Circle,2232,NSW,Australia,10,14,1.59,47,Middle adults
+3,Sybilla,MacCart,Female,88,1/15/1987,Paralegal,Financial Services,Mass Customer,N,Yes,7,74 Welch Pass,2620,NSW,Australia,7,32,1.45,36,Middle adults
+4,Martelle,Tuppeny,Female,52,2/3/1981,Marketing Assistant,Manufacturing,Mass Customer,N,No,9,261 Grayhawk Way,2226,NSW,Australia,10,54,1.38,42,Middle adults
+5,Chanda,Mensler,Female,15,1/14/1972,Computer Systems Analyst IV,Manufacturing,Mass Customer,N,Yes,13,0 Mockingbird Plaza,2212,NSW,Australia,10,78,1.34,51,Middle adults
+6,Esther,Rooson,Female,14,2/22/1981,NULL,Financial Services,Mass Customer,N,No,5,5186 Main Trail,2046,NSW,Australia,9,78,1.34,42,Middle adults
+7,Patricia,Everix,Female,34,2/19/1978,Director of Sales,Health,Mass Customer,N,No,19,91164 Washington Terrace,2263,NSW,Australia,7,89,1.31,45,Middle adults
+8,Ricki,Dobrowski,Male,13,3/10/1975,Civil Engineer,Manufacturing,Mass Customer,N,Yes,9,8 Eggendart Pass,2835,NSW,Australia,1,127,1.25,48,Middle adults
+9,Nowell,Preddy,Male,29,7/23/1985,NULL,Manufacturing,Mass Customer,N,No,9,932 Glendale Avenue,2173,NSW,Australia,9,133,1.24,38,Middle adults
+10,Daryl,Pauncefort,Female,12,6/18/1979,Community Outreach Specialist,Financial Services,Mass Customer,N,Yes,12,0 Dexter Parkway,2380,NSW,Australia,3,133,1.24,44,Middle adults
+11,Archibald,Blessed,Male,61,2/10/1969,VP Sales,Financial Services,Mass Customer,N,Yes,18,7795 Memorial Drive,2016,NSW,Australia,11,153,1.22,54,Middle adults
+12,Robert,Corkill,Male,55,3/12/1976,Clinical Specialist,Health,Mass Customer,N,No,4,5612 Toban Point,2227,NSW,Australia,10,166,1.18,47,Middle adults
+13,Harlin,Mazin,Male,34,3/25/1974,Computer Systems Analyst I,Manufacturing,Mass Customer,N,Yes,13,735 Westridge Road,2454,NSW,Australia,7,181,1.16,49,Middle adults
+14,Dorian,Stollen,Male,78,2/16/1980,Statistician I,Financial Services,Mass Customer,N,Yes,18,72922 Cambridge Terrace,2026,NSW,Australia,11,219,1.13,43,Middle adults
+15,Kort,Disley,Male,66,2/5/1979,Technical Writer,Health,Mass Customer,N,Yes,7,76 Donald Trail,2160,NSW,Australia,9,219,1.13,44,Middle adults
+16,Gothart,Artus,Male,52,5/31/1978,Health Coach IV,Health,Mass Customer,N,Yes,14,21824 Northridge Alley,2117,NSW,Australia,10,231,1.11,45,Middle adults
+17,Sunny,Christescu,Female,90,3/12/1975,Cost Accountant,Financial Services,Mass Customer,N,No,11,6668 Blue Bill Park Plaza,2209,NSW,Australia,10,250,1.08,48,Middle adults
+18,Theresa,Cowper,Female,99,8/24/1976,Accountant III,Manufacturing,Mass Customer,N,No,3,88 Mifflin Pass,2529,NSW,Australia,10,271,1.06,47,Middle adults
+19,Biddie,Gorce,Female,68,1/30/1988,Senior Financial Analyst,Financial Services,Mass Customer,N,Yes,5,2116 Continental Terrace,2795,NSW,Australia,7,295,1.03,35,Middle adults
+20,Loleta,Aberdalgy,Female,45,2/15/1981,Occupational Therapist,Health,Mass Customer,N,No,11,99 Westend Court,2287,NSW,Australia,6,304,1.03,42,Middle adults
+21,Aldric,Birney,Male,21,8/19/1971,NULL,Manufacturing,Mass Customer,N,Yes,14,5 Caliangt Center,2546,NSW,Australia,6,310,1.02,52,Middle adults
+22,Daisi,Tinwell,Female,84,12/24/1971,Business Systems Development Analyst,Financial Services,Mass Customer,N,No,11,19561 Express Street,2777,NSW,Australia,8,366,0.98,52,Middle adults
+23,Dodi,Kiggel,Female,5,8/15/1980,NULL,Financial Services,Mass Customer,N,Yes,13,05 Everett Trail,2114,NSW,Australia,11,405,0.93,43,Middle adults
+24,Tristam,Larose,Male,70,1/29/1985,VP Accounting,Financial Services,Mass Customer,N,No,17,9645 Moose Terrace,2137,NSW,Australia,11,455,0.89,38,Middle adults
+25,Alexina,Mabley,Female,72,10/12/1975,Web Designer IV,Manufacturing,Mass Customer,N,Yes,10,9 Rieder Junction,2573,NSW,Australia,9,486,0.88,48,Middle adults
+26,Katleen,Arnoult,Female,6,11/24/1976,VP Product Management,Manufacturing,Mass Customer,N,Yes,13,540 Farragut Avenue,2066,NSW,Australia,9,507,0.85,47,Middle adults
+27,Inglebert,Aspinal,Male,4,10/13/1973,Financial Analyst,Financial Services,Mass Customer,N,No,11,612 Annamark Center,2176,NSW,Australia,8,507,0.85,50,Middle adults
+28,Amabel,NULL,Female,71,9/14/1981,Chief Design Engineer,Financial Services,Mass Customer,N,Yes,9,3128 Mallory Pass,2144,NSW,Australia,6,530,0.83,42,Middle adults
+29,Katy,Crooke,Female,0,6/30/1977,Food Chemist,Health,Mass Customer,N,No,13,67081 Burrows Center,2111,NSW,Australia,12,546,0.82,46,Middle adults
+30,Sammy,Borsi,Female,99,4/27/1972,Accountant III,Financial Services,Mass Customer,N,No,5,0 Kipling Way,2289,NSW,Australia,7,546,0.82,51,Middle adults
+31,Ajay,Worham,Female,80,9/30/1979,Computer Systems Analyst I,Manufacturing,Mass Customer,N,Yes,12,5 Homewood Road,2800,NSW,Australia,6,606,0.77,44,Middle adults
+32,Jamison,Cashin,Male,70,5/19/1970,VP Product Management,Health,Mass Customer,N,Yes,5,7 Dunning Avenue,2477,NSW,Australia,8,609,0.76,53,Middle adults
+33,Aldin,Newsome,Male,24,7/6/1981,Financial Analyst,Financial Services,Mass Customer,N,No,17,058 Morningstar Center,2127,NSW,Australia,9,648,0.73,42,Middle adults
+34,Selle,Casper,Female,98,3/27/1978,Social Worker,Health,Mass Customer,N,Yes,10,34 Jay Hill,2880,NSW,Australia,1,684,0.7,45,Middle adults
+35,Brendis,Pineaux,Male,12,1/15/1978,Mechanical Systems Engineer,Manufacturing,Mass Customer,N,No,5,43030 Carberry Way,2560,NSW,Australia,4,719,0.68,45,Middle adults
+36,Shepperd,Leonards,Male,17,4/14/1981,Chemical Engineer,Manufacturing,Mass Customer,N,Yes,5,38 Nobel Lane,2147,NSW,Australia,9,733,0.66,42,Middle adults
+37,Sinclair,Wark,Male,68,2/21/1974,Financial Analyst,Financial Services,Mass Customer,N,Yes,11,44 Thompson Center,2134,NSW,Australia,9,741,0.66,49,Middle adults
+38,Stephani,Sidsaff,Female,32,9/29/1973,Senior Quality Engineer,Financial Services,Mass Customer,N,Yes,6,00 Southridge Avenue,2036,NSW,Australia,11,755,0.64,50,Middle adults
+39,Yuma,Dennick,Male,40,11/10/1972,NULL,Manufacturing,Mass Customer,N,Yes,6,89244 Macpherson Trail,2528,NSW,Australia,8,778,0.63,51,Middle adults
+40,Therese,Brotherhood,Female,30,7/28/1981,Food Chemist,Health,Mass Customer,N,No,10,25044 Bay Avenue,2042,NSW,Australia,10,780,0.62,42,Middle adults
+41,Rosene,Beckey,Female,25,5/21/1974,Account Executive,Health,Mass Customer,N,Yes,14,02463 Portage Center,2107,NSW,Australia,11,801,0.6,49,Middle adults
+42,Darlleen,Shalcras,Female,77,9/14/1980,Health Coach I,Health,Mass Customer,N,No,11,383 Graceland Avenue,2010,NSW,Australia,10,801,0.6,43,Middle adults
+43,Davie,Blay,Male,94,12/19/1985,Financial Analyst,Financial Services,Mass Customer,N,No,8,7021 5th Alley,2770,NSW,Australia,7,808,0.6,38,Middle adults
+44,Becky,Lassen,Female,11,5/11/1973,Sales Associate,Financial Services,Mass Customer,N,Yes,7,41153 Pond Park,2251,NSW,Australia,8,820,0.58,50,Middle adults
+45,Randall,Mason,Male,95,7/28/1974,Product Engineer,Health,Mass Customer,N,Yes,12,83497 Memorial Plaza,2570,NSW,Australia,11,870,0.54,49,Middle adults
+46,Olia,O' Mullan,Female,77,3/24/1973,Account Executive,Health,Mass Customer,N,No,8,6315 Mendota Parkway,2263,NSW,Australia,7,904,0.5,50,Middle adults
+47,Aleece,Feige,Female,49,9/16/1975,NULL,Manufacturing,Mass Customer,N,No,18,2030 Anderson Lane,2141,NSW,Australia,10,904,0.5,48,Middle adults
+48,Lezlie,Clemits,Female,2,5/30/1973,Senior Cost Accountant,Financial Services,Mass Customer,N,Yes,15,0504 Nevada Drive,2155,NSW,Australia,10,924,0.49,50,Middle adults
+49,Duff,Karlowicz,Male,50,4/28/1972,Speech Pathologist,Manufacturing,Mass Customer,N,Yes,5,717 West Drive,2200,NSW,Australia,10,8,1.66,51,Middle adults
+50,Sonia,Dunstall,Female,0,7/30/1975,Accountant III,Financial Services,Mass Customer,N,No,10,99 Park Meadow Hill,2570,NSW,Australia,9,960,0.44,48,Middle adults
+51,Jammie,Seldner,Female,42,2/25/1975,Human Resources Manager,Health,Mass Customer,N,Yes,15,8 Saint Paul Junction,2066,NSW,Australia,10,963,0.44,48,Middle adults

@@ -22,6 +22,19 @@ DROP TABLE kpmgs."oldcustomer1k_cltvi";
 DROP TABLE kpmgs."oldcustomer1k_cltv";
 
 
-
 SELECT * FROM kpmgs."oldcustomer1k_cltvid"
 	ORDER BY group_name LIMIT 1000;
+
+SELECT * FROM kpmgs."NewCustomerList";
+
+SELECT * FROM kpmgs."NewCustomerList"
+	WHERE age_category = 'Middle adults' 
+	 And job_industry_category IN ('Financial Services', 'Manufacturing', 'Health') 
+	 And "state" = 'NSW'  And wealth_segment = 'Mass Customer';
+
+
+SELECT * FROM kpmgs."NewCustomerList"
+	WHERE age_category = 'Middle adults' 
+	 Or job_industry_category IN ('Financial Services', 'Manufacturing') 
+	 Or "state" = 'NSW'  Or wealth_segment = 'Mass Customer';
+
